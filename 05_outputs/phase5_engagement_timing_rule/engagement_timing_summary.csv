@@ -1,0 +1,8 @@
+Engagement_Label,Days_To_First_Engagement_Num,Client_Count,Completion_Rate_Pct,Churn_Rate_Pct,Avg_Checkin_Rate_Pct,Goal_Achievement_Rate_Pct
+0,0,937,89.43,10.57,81.36,89.43
+1,1,585,88.55,11.45,80.89,88.55
+2,2,449,87.97,12.03,80.19,87.97
+3,3,461,87.2,12.8,80.22,87.2
+5,5,289,64.71,35.29,64.07,64.71
+7,7,146,62.33,37.67,63.46,62.33
+Never,999,133,0.0,100.0,3.31,0.0

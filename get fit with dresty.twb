@@ -1,0 +1,3341 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20252.25.0514.2217                               -->
+<workbook original-version='18.1' source-build='2025.2.0 (20252.25.0514.2217)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+    <WorksheetBackgroundTransparency />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='tableau_clients' inline='true' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='tableau_clients' name='textscan.0cnqsjb1wxmfgw1gvi6dp0ngnepp'>
+            <connection class='textscan' directory='/Users/pari/Desktop/Get_Fit_with_Drishti_BA_Project/07_tableau_dashboard/tableau_exports' filename='tableau_clients.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0cnqsjb1wxmfgw1gvi6dp0ngnepp' name='tableau_clients.csv' table='[tableau_clients#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Client_ID' ordinal='0' />
+            <column datatype='integer' name='Age' ordinal='1' />
+            <column datatype='string' name='Gender' ordinal='2' />
+            <column datatype='string' name='Country' ordinal='3' />
+            <column datatype='string' name='City' ordinal='4' />
+            <column datatype='string' name='Diet_Type' ordinal='5' />
+            <column datatype='string' name='Goal_Type' ordinal='6' />
+            <column datatype='string' name='Lead_Source' ordinal='7' />
+            <column datatype='string' name='Referred_By' ordinal='8' />
+            <column datatype='string' name='Health_Condition' ordinal='9' />
+            <column datatype='string' name='Daily_Schedule' ordinal='10' />
+            <column datatype='string' name='Exercise_History' ordinal='11' />
+            <column datatype='integer' name='Height_cm' ordinal='12' />
+            <column datatype='integer' name='Start_Weight_kg' ordinal='13' />
+            <column datatype='integer' name='Target_Weight_kg' ordinal='14' />
+            <column datatype='integer' name='Goal_Gap_kg' ordinal='15' />
+            <column datatype='date' name='Payment_Date' ordinal='16' />
+            <column datatype='integer' name='Payment_Speed_Days' ordinal='17' />
+            <column datatype='integer' name='Days_To_First_Engagement' ordinal='18' />
+            <column datatype='date' name='Program_Start_Date' ordinal='19' />
+            <column datatype='date' name='Program_End_Date' ordinal='20' />
+            <column datatype='string' name='Status' ordinal='21' />
+            <column datatype='string' name='Week3_Still_Active' ordinal='22' />
+            <column datatype='real' name='Dropout_Day' ordinal='23' />
+            <column datatype='string' name='Dropout_Reason' ordinal='24' />
+            <column datatype='integer' name='Weekly_Checkins_Expected' ordinal='25' />
+            <column datatype='integer' name='Weekly_Checkins_Completed' ordinal='26' />
+            <column datatype='real' name='Checkin_Rate_Pct' ordinal='27' />
+            <column datatype='string' name='Daily_Comm_Frequency' ordinal='28' />
+            <column datatype='string' name='Motivation_Level_Start' ordinal='29' />
+            <column datatype='string' name='Progress_Photos_Shared' ordinal='30' />
+            <column datatype='string' name='Goal_Achieved' ordinal='31' />
+            <column datatype='string' name='Returned_After_Drop' ordinal='32' />
+            <column datatype='real' name='Weeks_Before_Return' ordinal='33' />
+            <column datatype='string' name='Return_Trigger' ordinal='34' />
+            <column datatype='integer' name='Revenue_USD' ordinal='35' />
+            <column datatype='string' name='Second_Round' ordinal='36' />
+            <column datatype='integer' name='Program_Duration_Days' ordinal='37' />
+            <column datatype='boolean' name='Ever_Engaged' ordinal='38' />
+            <column datatype='boolean' name='Was_Referred' ordinal='39' />
+            <column datatype='integer' name='Goal_Achieved_Encoded' ordinal='40' />
+            <column datatype='boolean' name='Churned' ordinal='41' />
+            <column datatype='integer' name='Superfan_Score' ordinal='42' />
+            <column datatype='real' name='Churn_Probability' ordinal='43' />
+            <column datatype='string' name='Client_Persona' ordinal='44' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Client_ID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Client_ID]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Client_ID</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Age</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Age]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Age</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Gender]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Gender</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Country]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Country</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>City</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[City]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>City</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Diet_Type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Diet_Type]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Diet_Type</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Goal_Type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Goal_Type]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Goal_Type</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Lead_Source</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Lead_Source]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Lead_Source</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Referred_By</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Referred_By]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Referred_By</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Health_Condition</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Health_Condition]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Health_Condition</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Daily_Schedule</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Daily_Schedule]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Daily_Schedule</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Exercise_History</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Exercise_History]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Exercise_History</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Height_cm</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Height_cm]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Height_cm</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Start_Weight_kg</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Start_Weight_kg]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Start_Weight_kg</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Target_Weight_kg</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Target_Weight_kg]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Target_Weight_kg</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Goal_Gap_kg</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Goal_Gap_kg]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Goal_Gap_kg</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Payment_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Payment_Date]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Payment_Date</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Payment_Speed_Days</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Payment_Speed_Days]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Payment_Speed_Days</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Days_To_First_Engagement</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Days_To_First_Engagement]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Days_To_First_Engagement</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Program_Start_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Program_Start_Date]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Program_Start_Date</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Program_End_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Program_End_Date]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Program_End_Date</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Status</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Status]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Status</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Week3_Still_Active</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Week3_Still_Active]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Week3_Still_Active</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Dropout_Day</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Dropout_Day]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Dropout_Day</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Dropout_Reason</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Dropout_Reason]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Dropout_Reason</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Weekly_Checkins_Expected</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Weekly_Checkins_Expected]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Weekly_Checkins_Expected</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Weekly_Checkins_Completed</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Weekly_Checkins_Completed]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Weekly_Checkins_Completed</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Checkin_Rate_Pct</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Checkin_Rate_Pct]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Checkin_Rate_Pct</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Daily_Comm_Frequency</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Daily_Comm_Frequency]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Daily_Comm_Frequency</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Motivation_Level_Start</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Motivation_Level_Start]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Motivation_Level_Start</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Progress_Photos_Shared</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Progress_Photos_Shared]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Progress_Photos_Shared</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Goal_Achieved</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Goal_Achieved]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Goal_Achieved</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Returned_After_Drop</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Returned_After_Drop]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Returned_After_Drop</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Weeks_Before_Return</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Weeks_Before_Return]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Weeks_Before_Return</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Return_Trigger</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Return_Trigger]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Return_Trigger</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Revenue_USD</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Revenue_USD]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Revenue_USD</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Second_Round</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Second_Round]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Second_Round</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Program_Duration_Days</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Program_Duration_Days]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Program_Duration_Days</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ever_Engaged</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[Ever_Engaged]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Ever_Engaged</remote-alias>
+            <ordinal>38</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Was_Referred</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[Was_Referred]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Was_Referred</remote-alias>
+            <ordinal>39</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Goal_Achieved_Encoded</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Goal_Achieved_Encoded]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Goal_Achieved_Encoded</remote-alias>
+            <ordinal>40</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Churned</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[Churned]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Churned</remote-alias>
+            <ordinal>41</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Superfan_Score</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Superfan_Score]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Superfan_Score</remote-alias>
+            <ordinal>42</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Churn_Probability</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Churn_Probability]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Churn_Probability</remote-alias>
+            <ordinal>43</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Client_Persona</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Client_Persona]</local-name>
+            <parent-name>[tableau_clients.csv]</parent-name>
+            <remote-alias>Client_Persona</remote-alias>
+            <ordinal>44</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Total Clients' datatype='integer' name='[Calculation_3230206900715237376]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='COUNTD([Client_ID])' />
+      </column>
+      <column caption='Completion Rate %' datatype='real' default-format='p0%' name='[Calculation_3230206900722360321]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM(IF [Status] = &quot;Completed&quot; THEN 1 ELSE 0 END) / COUNT([Client_ID])' />
+      </column>
+      <column caption='Goal Achievement Rate %' datatype='real' default-format='p0%' name='[Calculation_3230206900725587970]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM(IF [Goal_Achieved] = &quot;Yes&quot; THEN 1 ELSE 0 END) / COUNT([Client_ID])' />
+      </column>
+      <column caption='Superfan %' datatype='real' default-format='p0%' name='[Calculation_3416472966565347328]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM(IF [Superfan_Score] &gt;= 70 THEN 1 ELSE 0 END) / COUNT([Client_ID])' />
+      </column>
+      <column caption='Second Round Rate %' datatype='real' default-format='p0%' name='[Calculation_3416472966566645761]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM(IF [Second_Round] = &quot;Yes&quot; THEN 1 ELSE 0 END) / COUNT([Client_ID])' />
+      </column>
+      <column caption='Superfan Score Group' datatype='string' name='[Calculation_4083005711481298944]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [Superfan_Score] &gt;= 70 THEN &quot;Strong Superfan&quot;&#10;ELSEIF [Superfan_Score] &gt;= 50 THEN &quot;Potential Superfan&quot;&#10;ELSEIF [Superfan_Score] &gt;= 30 THEN &quot;Developing Client&quot;&#10;ELSE &quot;Low Advocacy&quot;&#10;END' />
+      </column>
+      <column caption='Referral Group' datatype='string' name='[Calculation_4083005711483424769]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [Was_Referred] = TRUE THEN &quot;Referred Client&quot;&#10;ELSE &quot;Non-Referred Client&quot;&#10;END' />
+      </column>
+      <column caption='Completion Flag' datatype='integer' name='[Calculation_4083005711483637762]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='IF [Status] = &quot;Completed&quot; THEN 1 ELSE 0 END' />
+      </column>
+      <column caption='Goal Success Flag' datatype='integer' name='[Calculation_4083005711483744259]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='IF [Goal_Achieved] = &quot;Yes&quot; THEN 1 ELSE 0 END' />
+      </column>
+      <column caption='Second Round Flag' datatype='integer' name='[Calculation_4083005711483867140]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='IF [Second_Round] = &quot;Yes&quot; THEN 1 ELSE 0 END' />
+      </column>
+      <column caption='Engagement Timing Group' datatype='string' name='[Calculation_4083005711491985413]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [Days_To_First_Engagement] = 999 THEN &quot;Never&quot;&#10;ELSE STR([Days_To_First_Engagement])&#10;END' />
+      </column>
+      <column caption='Checkin Rate Pct' datatype='real' name='[Checkin_Rate_Pct]' role='measure' type='quantitative' />
+      <column caption='Churn Probability' datatype='real' name='[Churn_Probability]' role='measure' type='quantitative' />
+      <column datatype='string' name='[City]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+      <column caption='Client Persona' datatype='string' name='[Client_Persona]' role='dimension' type='nominal' />
+      <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Daily Comm Frequency' datatype='string' name='[Daily_Comm_Frequency]' role='dimension' type='nominal' />
+      <column caption='Daily Schedule' datatype='string' name='[Daily_Schedule]' role='dimension' type='nominal' />
+      <column aggregation='Sum' caption='Days To First Engagement' datatype='integer' name='[Days_To_First_Engagement]' role='dimension' type='ordinal' />
+      <column caption='Diet Type' datatype='string' name='[Diet_Type]' role='dimension' type='nominal' />
+      <column caption='Dropout Day' datatype='real' name='[Dropout_Day]' role='dimension' type='quantitative' />
+      <column caption='Dropout Reason' datatype='string' name='[Dropout_Reason]' role='dimension' type='nominal' />
+      <column caption='Ever Engaged' datatype='boolean' name='[Ever_Engaged]' role='dimension' type='nominal' />
+      <column caption='Exercise History' datatype='string' name='[Exercise_History]' role='dimension' type='nominal' />
+      <column caption='Goal Achieved' datatype='string' name='[Goal_Achieved]' role='dimension' type='nominal' />
+      <column caption='Goal Achieved Encoded' datatype='integer' name='[Goal_Achieved_Encoded]' role='measure' type='quantitative' />
+      <column caption='Goal Gap kg' datatype='integer' name='[Goal_Gap_kg]' role='measure' type='quantitative' />
+      <column caption='Goal Type' datatype='string' name='[Goal_Type]' role='dimension' type='nominal' />
+      <column caption='Health Condition' datatype='string' name='[Health_Condition]' role='dimension' type='nominal' />
+      <column caption='Height cm' datatype='integer' name='[Height_cm]' role='measure' type='quantitative' />
+      <column caption='Lead Source' datatype='string' name='[Lead_Source]' role='dimension' type='nominal' />
+      <column caption='Motivation Level Start' datatype='string' name='[Motivation_Level_Start]' role='dimension' type='nominal' />
+      <column caption='Payment Date' datatype='date' name='[Payment_Date]' role='dimension' type='ordinal' />
+      <column caption='Payment Speed Days' datatype='integer' name='[Payment_Speed_Days]' role='measure' type='quantitative' />
+      <column caption='Program Duration Days' datatype='integer' name='[Program_Duration_Days]' role='measure' type='quantitative' />
+      <column caption='Program End Date' datatype='date' name='[Program_End_Date]' role='dimension' type='ordinal' />
+      <column caption='Program Start Date' datatype='date' name='[Program_Start_Date]' role='dimension' type='ordinal' />
+      <column caption='Progress Photos Shared' datatype='string' name='[Progress_Photos_Shared]' role='dimension' type='nominal' />
+      <column caption='Referred By' datatype='string' name='[Referred_By]' role='dimension' type='nominal' />
+      <column caption='Return Trigger' datatype='string' name='[Return_Trigger]' role='dimension' type='nominal' />
+      <column caption='Returned After Drop' datatype='string' name='[Returned_After_Drop]' role='dimension' type='nominal' />
+      <column caption='Revenue USD' datatype='integer' name='[Revenue_USD]' role='measure' type='quantitative' />
+      <column caption='Second Round' datatype='string' name='[Second_Round]' role='dimension' type='nominal' />
+      <column caption='Start Weight kg' datatype='integer' name='[Start_Weight_kg]' role='measure' type='quantitative' />
+      <column caption='Superfan Score' datatype='integer' name='[Superfan_Score]' role='measure' type='quantitative' />
+      <column caption='Target Weight kg' datatype='integer' name='[Target_Weight_kg]' role='measure' type='quantitative' />
+      <column caption='Was Referred' datatype='boolean' name='[Was_Referred]' role='dimension' type='nominal' />
+      <column caption='Week3 Still Active' datatype='string' name='[Week3_Still_Active]' role='dimension' type='nominal' />
+      <column caption='Weekly Checkins Completed' datatype='integer' name='[Weekly_Checkins_Completed]' role='measure' type='quantitative' />
+      <column caption='Weekly Checkins Expected' datatype='integer' name='[Weekly_Checkins_Expected]' role='measure' type='quantitative' />
+      <column caption='Weeks Before Return' datatype='real' name='[Weeks_Before_Return]' role='measure' type='quantitative' />
+      <column caption='tableau_clients.csv' datatype='table' name='[__tableau_internal_object_id__].[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]' role='measure' type='quantitative' />
+      <column-instance column='[Calculation_4083005711481298944]' derivation='None' name='[none:Calculation_4083005711481298944:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Calculation_4083005711483424769]' derivation='None' name='[none:Calculation_4083005711483424769:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Health_Condition]' derivation='None' name='[none:Health_Condition:nk]' pivot='key' type='nominal' />
+      <drill-paths>
+        <drill-path name='Country, City'>
+          <field>[Country]</field>
+          <field>[City]</field>
+        </drill-path>
+      </drill-paths>
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='/var/folders/_d/dxth6s0n3jnd5mmchxm53nx00000gn/T/tableau-temp/#TableauTemp_071vnq81iau20j157mq801i7yck9.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='05/08/2026 01:54:05 AM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Client_ID</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Client_ID]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Client_ID</remote-alias>
+              <ordinal>0</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3000</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Age</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Age]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Age</remote-alias>
+              <ordinal>1</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>43</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Gender</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Gender]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Gender</remote-alias>
+              <ordinal>2</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Country</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Country]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Country</remote-alias>
+              <ordinal>3</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>City</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[City]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>City</remote-alias>
+              <ordinal>4</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>65</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Diet_Type</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Diet_Type]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Diet_Type</remote-alias>
+              <ordinal>5</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Goal_Type</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Goal_Type]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Goal_Type</remote-alias>
+              <ordinal>6</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Lead_Source</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Lead_Source]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Lead_Source</remote-alias>
+              <ordinal>7</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Referred_By</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Referred_By]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Referred_By</remote-alias>
+              <ordinal>8</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>566</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Health_Condition</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Health_Condition]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Health_Condition</remote-alias>
+              <ordinal>9</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Daily_Schedule</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Daily_Schedule]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Daily_Schedule</remote-alias>
+              <ordinal>10</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Exercise_History</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Exercise_History]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Exercise_History</remote-alias>
+              <ordinal>11</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Height_cm</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Height_cm]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Height_cm</remote-alias>
+              <ordinal>12</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>36</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Start_Weight_kg</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Start_Weight_kg]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Start_Weight_kg</remote-alias>
+              <ordinal>13</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>77</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Target_Weight_kg</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Target_Weight_kg]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Target_Weight_kg</remote-alias>
+              <ordinal>14</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>66</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Goal_Gap_kg</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Goal_Gap_kg]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Goal_Gap_kg</remote-alias>
+              <ordinal>15</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>21</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Payment_Date</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[Payment_Date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Payment_Date</remote-alias>
+              <ordinal>16</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>850</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Payment_Speed_Days</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Payment_Speed_Days]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Payment_Speed_Days</remote-alias>
+              <ordinal>17</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Days_To_First_Engagement</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Days_To_First_Engagement]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Days_To_First_Engagement</remote-alias>
+              <ordinal>18</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>7</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Program_Start_Date</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[Program_Start_Date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Program_Start_Date</remote-alias>
+              <ordinal>19</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>865</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Program_End_Date</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[Program_End_Date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Program_End_Date</remote-alias>
+              <ordinal>20</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>879</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Status</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Status]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Status</remote-alias>
+              <ordinal>21</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Week3_Still_Active</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Week3_Still_Active]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Week3_Still_Active</remote-alias>
+              <ordinal>22</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Dropout_Day</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Dropout_Day]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Dropout_Day</remote-alias>
+              <ordinal>23</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>28</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Dropout_Reason</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Dropout_Reason]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Dropout_Reason</remote-alias>
+              <ordinal>24</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Weekly_Checkins_Expected</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Weekly_Checkins_Expected]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Weekly_Checkins_Expected</remote-alias>
+              <ordinal>25</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Weekly_Checkins_Completed</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Weekly_Checkins_Completed]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Weekly_Checkins_Completed</remote-alias>
+              <ordinal>26</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Checkin_Rate_Pct</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Checkin_Rate_Pct]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Checkin_Rate_Pct</remote-alias>
+              <ordinal>27</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Daily_Comm_Frequency</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Daily_Comm_Frequency]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Daily_Comm_Frequency</remote-alias>
+              <ordinal>28</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Motivation_Level_Start</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Motivation_Level_Start]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Motivation_Level_Start</remote-alias>
+              <ordinal>29</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Progress_Photos_Shared</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Progress_Photos_Shared]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Progress_Photos_Shared</remote-alias>
+              <ordinal>30</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Goal_Achieved</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Goal_Achieved]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Goal_Achieved</remote-alias>
+              <ordinal>31</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Returned_After_Drop</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Returned_After_Drop]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Returned_After_Drop</remote-alias>
+              <ordinal>32</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Weeks_Before_Return</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Weeks_Before_Return]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Weeks_Before_Return</remote-alias>
+              <ordinal>33</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>24</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Return_Trigger</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Return_Trigger]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Return_Trigger</remote-alias>
+              <ordinal>34</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Revenue_USD</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Revenue_USD]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Revenue_USD</remote-alias>
+              <ordinal>35</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Second_Round</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Second_Round]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Second_Round</remote-alias>
+              <ordinal>36</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Program_Duration_Days</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Program_Duration_Days]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Program_Duration_Days</remote-alias>
+              <ordinal>37</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>81</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Ever_Engaged</remote-name>
+              <remote-type>11</remote-type>
+              <local-name>[Ever_Engaged]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Ever_Engaged</remote-alias>
+              <ordinal>38</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>boolean</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Was_Referred</remote-name>
+              <remote-type>11</remote-type>
+              <local-name>[Was_Referred]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Was_Referred</remote-alias>
+              <ordinal>39</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>boolean</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Goal_Achieved_Encoded</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Goal_Achieved_Encoded]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Goal_Achieved_Encoded</remote-alias>
+              <ordinal>40</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Churned</remote-name>
+              <remote-type>11</remote-type>
+              <local-name>[Churned]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Churned</remote-alias>
+              <ordinal>41</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>boolean</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Superfan_Score</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Superfan_Score]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Superfan_Score</remote-alias>
+              <ordinal>42</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>18</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Churn_Probability</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Churn_Probability]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Churn_Probability</remote-alias>
+              <ordinal>43</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Client_Persona</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Client_Persona]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Client_Persona</remote-alias>
+              <ordinal>44</ordinal>
+              <family>tableau_clients.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Calculation_4083005711481298944:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Potential Superfan&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;Strong Superfan&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Low Advocacy&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Developing Client&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Calculation_4083005711483424769:nk]' type='palette'>
+            <map to='#76b7b2'>
+              <bucket>&quot;Referred Client&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Non-Referred Client&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Health_Condition:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Other&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;PCOS&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Diabetes&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;Thyroid&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Back Pain&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='tableau_clients.csv' id='tableau_clients.csv_FDD569FEF8FA4EE592C697B82F364D78'>
+            <properties context=''>
+              <relation connection='textscan.0cnqsjb1wxmfgw1gvi6dp0ngnepp' name='tableau_clients.csv' table='[tableau_clients#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Client_ID' ordinal='0' />
+                  <column datatype='integer' name='Age' ordinal='1' />
+                  <column datatype='string' name='Gender' ordinal='2' />
+                  <column datatype='string' name='Country' ordinal='3' />
+                  <column datatype='string' name='City' ordinal='4' />
+                  <column datatype='string' name='Diet_Type' ordinal='5' />
+                  <column datatype='string' name='Goal_Type' ordinal='6' />
+                  <column datatype='string' name='Lead_Source' ordinal='7' />
+                  <column datatype='string' name='Referred_By' ordinal='8' />
+                  <column datatype='string' name='Health_Condition' ordinal='9' />
+                  <column datatype='string' name='Daily_Schedule' ordinal='10' />
+                  <column datatype='string' name='Exercise_History' ordinal='11' />
+                  <column datatype='integer' name='Height_cm' ordinal='12' />
+                  <column datatype='integer' name='Start_Weight_kg' ordinal='13' />
+                  <column datatype='integer' name='Target_Weight_kg' ordinal='14' />
+                  <column datatype='integer' name='Goal_Gap_kg' ordinal='15' />
+                  <column datatype='date' name='Payment_Date' ordinal='16' />
+                  <column datatype='integer' name='Payment_Speed_Days' ordinal='17' />
+                  <column datatype='integer' name='Days_To_First_Engagement' ordinal='18' />
+                  <column datatype='date' name='Program_Start_Date' ordinal='19' />
+                  <column datatype='date' name='Program_End_Date' ordinal='20' />
+                  <column datatype='string' name='Status' ordinal='21' />
+                  <column datatype='string' name='Week3_Still_Active' ordinal='22' />
+                  <column datatype='real' name='Dropout_Day' ordinal='23' />
+                  <column datatype='string' name='Dropout_Reason' ordinal='24' />
+                  <column datatype='integer' name='Weekly_Checkins_Expected' ordinal='25' />
+                  <column datatype='integer' name='Weekly_Checkins_Completed' ordinal='26' />
+                  <column datatype='real' name='Checkin_Rate_Pct' ordinal='27' />
+                  <column datatype='string' name='Daily_Comm_Frequency' ordinal='28' />
+                  <column datatype='string' name='Motivation_Level_Start' ordinal='29' />
+                  <column datatype='string' name='Progress_Photos_Shared' ordinal='30' />
+                  <column datatype='string' name='Goal_Achieved' ordinal='31' />
+                  <column datatype='string' name='Returned_After_Drop' ordinal='32' />
+                  <column datatype='real' name='Weeks_Before_Return' ordinal='33' />
+                  <column datatype='string' name='Return_Trigger' ordinal='34' />
+                  <column datatype='integer' name='Revenue_USD' ordinal='35' />
+                  <column datatype='string' name='Second_Round' ordinal='36' />
+                  <column datatype='integer' name='Program_Duration_Days' ordinal='37' />
+                  <column datatype='boolean' name='Ever_Engaged' ordinal='38' />
+                  <column datatype='boolean' name='Was_Referred' ordinal='39' />
+                  <column datatype='integer' name='Goal_Achieved_Encoded' ordinal='40' />
+                  <column datatype='boolean' name='Churned' ordinal='41' />
+                  <column datatype='integer' name='Superfan_Score' ordinal='42' />
+                  <column datatype='real' name='Churn_Probability' ordinal='43' />
+                  <column datatype='string' name='Client_Persona' ordinal='44' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='tableau_funnel' inline='true' name='federated.1ccllz00xj5wwp17xql951oysa0t' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='tableau_funnel' name='textscan.0invtw405z029f12dprwf0t70vg2'>
+            <connection class='textscan' directory='/Users/pari/Desktop/Get_Fit_with_Drishti_BA_Project/07_tableau_dashboard/tableau_exports' filename='tableau_funnel.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0invtw405z029f12dprwf0t70vg2' name='tableau_funnel.csv' table='[tableau_funnel#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Stage_Number' ordinal='0' />
+            <column datatype='string' name='Funnel_Stage' ordinal='1' />
+            <column datatype='integer' name='Client_Count' ordinal='2' />
+            <column datatype='real' name='Dropoff_From_Previous_Stage' ordinal='3' />
+            <column datatype='real' name='Stage_Conversion_Rate_Pct' ordinal='4' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[tableau_funnel.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Stage_Number</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Stage_Number]</local-name>
+            <parent-name>[tableau_funnel.csv]</parent-name>
+            <remote-alias>Stage_Number</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_funnel.csv_DA7A664260A54239AA701CCB04EE5E39]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Funnel_Stage</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Funnel_Stage]</local-name>
+            <parent-name>[tableau_funnel.csv]</parent-name>
+            <remote-alias>Funnel_Stage</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_funnel.csv_DA7A664260A54239AA701CCB04EE5E39]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Client_Count</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Client_Count]</local-name>
+            <parent-name>[tableau_funnel.csv]</parent-name>
+            <remote-alias>Client_Count</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_funnel.csv_DA7A664260A54239AA701CCB04EE5E39]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Dropoff_From_Previous_Stage</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Dropoff_From_Previous_Stage]</local-name>
+            <parent-name>[tableau_funnel.csv]</parent-name>
+            <remote-alias>Dropoff_From_Previous_Stage</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_funnel.csv_DA7A664260A54239AA701CCB04EE5E39]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Stage_Conversion_Rate_Pct</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Stage_Conversion_Rate_Pct]</local-name>
+            <parent-name>[tableau_funnel.csv]</parent-name>
+            <remote-alias>Stage_Conversion_Rate_Pct</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_funnel.csv_DA7A664260A54239AA701CCB04EE5E39]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Client Count' datatype='integer' name='[Client_Count]' role='measure' type='quantitative' />
+      <column caption='Dropoff From Previous Stage' datatype='real' name='[Dropoff_From_Previous_Stage]' role='measure' type='quantitative' />
+      <column caption='Funnel Stage' datatype='string' name='[Funnel_Stage]' role='dimension' type='nominal' />
+      <column caption='Stage Conversion Rate Pct' datatype='real' name='[Stage_Conversion_Rate_Pct]' role='measure' type='quantitative' />
+      <column caption='Stage Number' datatype='integer' name='[Stage_Number]' role='dimension' type='ordinal' />
+      <column caption='tableau_funnel.csv' datatype='table' name='[__tableau_internal_object_id__].[tableau_funnel.csv_DA7A664260A54239AA701CCB04EE5E39]' role='measure' type='quantitative' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='/var/folders/_d/dxth6s0n3jnd5mmchxm53nx00000gn/T/tableau-temp/#TableauTemp_0a5krnz0sn41rg0zyeu5l1hehdit.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='05/08/2026 07:06:29 AM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Stage_Number</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Stage_Number]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Stage_Number</remote-alias>
+              <ordinal>0</ordinal>
+              <family>tableau_funnel.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Funnel_Stage</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Funnel_Stage]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Funnel_Stage</remote-alias>
+              <ordinal>1</ordinal>
+              <family>tableau_funnel.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Client_Count</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Client_Count]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Client_Count</remote-alias>
+              <ordinal>2</ordinal>
+              <family>tableau_funnel.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Dropoff_From_Previous_Stage</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Dropoff_From_Previous_Stage]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Dropoff_From_Previous_Stage</remote-alias>
+              <ordinal>3</ordinal>
+              <family>tableau_funnel.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Stage_Conversion_Rate_Pct</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Stage_Conversion_Rate_Pct]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Stage_Conversion_Rate_Pct</remote-alias>
+              <ordinal>4</ordinal>
+              <family>tableau_funnel.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='tableau_funnel.csv' id='tableau_funnel.csv_DA7A664260A54239AA701CCB04EE5E39'>
+            <properties context=''>
+              <relation connection='textscan.0invtw405z029f12dprwf0t70vg2' name='tableau_funnel.csv' table='[tableau_funnel#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Stage_Number' ordinal='0' />
+                  <column datatype='string' name='Funnel_Stage' ordinal='1' />
+                  <column datatype='integer' name='Client_Count' ordinal='2' />
+                  <column datatype='real' name='Dropoff_From_Previous_Stage' ordinal='3' />
+                  <column datatype='real' name='Stage_Conversion_Rate_Pct' ordinal='4' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <actions>
+    <action caption='Highlight 1 (generated)' name='[Action1_852EDB38E3104474A77FBE379AFF4412]'>
+      <activation auto-clear='true' type='on-select' />
+      <source type='sheet' worksheet='View 5 - Superfan Pipeline' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='Superfan Score Group' />
+        <param name='target' value='View 5 - Superfan Pipeline' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='KPI - Completion Rate'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Completion Rate %' datatype='real' default-format='p0%' name='[Calculation_3230206900722360321]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM(IF [Status] = &quot;Completed&quot; THEN 1 ELSE 0 END) / COUNT([Client_ID])' />
+            </column>
+            <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Status]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_3230206900722360321]' derivation='User' name='[usr:Calculation_3230206900722360321:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3230206900722360321:qk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text />
+            </customized-tooltip>
+            <customized-label>
+              <formatted-text>
+                <run bold='true' fontcolor='#898989' fontname='Tableau Semibold' fontsize='12'>COMPLETION RATE</run>
+                <run>Æ&#10;&#10;</run>
+                <run bold='true' fontcolor='#4f8f00' fontname='Tableau Semibold' fontsize='36'><![CDATA[<[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3230206900722360321:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+                <format attr='vertical-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{A81541E5-AED4-431F-A5DE-A4CCBBDB46DD}' />
+    </worksheet>
+    <worksheet name='KPI - Second Round Rate'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Second Round Rate %' datatype='real' default-format='p0%' name='[Calculation_3416472966566645761]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM(IF [Second_Round] = &quot;Yes&quot; THEN 1 ELSE 0 END) / COUNT([Client_ID])' />
+            </column>
+            <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+            <column caption='Second Round' datatype='string' name='[Second_Round]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_3416472966566645761]' derivation='User' name='[usr:Calculation_3416472966566645761:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3416472966566645761:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run bold='true' fontcolor='#898989' fontname='Tableau Semibold' fontsize='12'>SECOND ROUND RATE</run>
+                <run>Æ&#10;&#10;</run>
+                <run bold='true' fontcolor='#3f8e57' fontname='Tableau Semibold' fontsize='36'><![CDATA[<[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3416472966566645761:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+                <format attr='vertical-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{5A15E714-7376-4C4C-8728-F2E2727A221C}' />
+    </worksheet>
+    <worksheet name='KPI - Superfan Rate'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Superfan %' datatype='real' default-format='p0%' name='[Calculation_3416472966565347328]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM(IF [Superfan_Score] &gt;= 70 THEN 1 ELSE 0 END) / COUNT([Client_ID])' />
+            </column>
+            <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+            <column caption='Superfan Score' datatype='integer' name='[Superfan_Score]' role='measure' type='quantitative' />
+            <column-instance column='[Calculation_3416472966565347328]' derivation='User' name='[usr:Calculation_3416472966565347328:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3416472966565347328:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run bold='true' fontcolor='#898989' fontname='Tableau Semibold' fontsize='12'>SUPERFAN RATE</run>
+                <run>Æ&#10;&#10;</run>
+                <run bold='true' fontcolor='#f28e2b' fontname='Tableau Semibold' fontsize='36'><![CDATA[<[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3416472966565347328:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+                <format attr='vertical-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{6D638B5F-6A02-44F3-8BD5-8334144F11D6}' />
+    </worksheet>
+    <worksheet name='KPI - Total Clients'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Total Clients' datatype='integer' name='[Calculation_3230206900715237376]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='COUNTD([Client_ID])' />
+            </column>
+            <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_3230206900715237376]' derivation='User' name='[usr:Calculation_3230206900715237376:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='table'>
+            <format attr='band-size' scope='rows' value='5' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3230206900715237376:qk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text />
+            </customized-tooltip>
+            <customized-label>
+              <formatted-text>
+                <run bold='true' fontcolor='#898989' fontname='Tableau Semibold' fontsize='12'>Total Clients</run>
+                <run>Æ&#10;</run>
+                <run bold='true' fontcolor='#0433ff' fontname='Tableau Semibold' fontsize='36'><![CDATA[<[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3230206900715237376:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+                <format attr='vertical-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{C009D907-A855-4940-80F6-A023B70DC55A}' />
+    </worksheet>
+    <worksheet name='KPI-Goal Achievement'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Goal Achievement Rate %' datatype='real' default-format='p0%' name='[Calculation_3230206900725587970]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM(IF [Goal_Achieved] = &quot;Yes&quot; THEN 1 ELSE 0 END) / COUNT([Client_ID])' />
+            </column>
+            <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+            <column caption='Goal Achieved' datatype='string' name='[Goal_Achieved]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_3230206900725587970]' derivation='User' name='[usr:Calculation_3230206900725587970:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3230206900725587970:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run bold='true' fontcolor='#898989' fontname='Tableau Semibold' fontsize='12'>GOAL ACHIEVEMENT</run>
+                <run>Æ&#10;&#10;</run>
+                <run fontcolor='#e15759' fontname='Tableau Semibold' fontsize='36'><![CDATA[<[federated.0eok7o60h8vf3q12ije7b1rhpom1].[usr:Calculation_3230206900725587970:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+                <format attr='vertical-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{032A273A-6285-478A-9264-093DEF9B9C95}' />
+    </worksheet>
+    <worksheet name='View 2 - Acquisition Health'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#606b76' fontname='Tableau Semibold' fontsize='16'>Acquisition Health: Monthly New Clients by Lead Source</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+            <column caption='Lead Source' datatype='string' name='[Lead_Source]' role='dimension' type='nominal' />
+            <column caption='Payment Date' datatype='date' name='[Payment_Date]' role='dimension' type='ordinal' />
+            <column-instance column='[Client_ID]' derivation='CountD' name='[ctd:Client_ID:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Payment_Date]' derivation='MY' name='[my:Payment_Date:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Lead_Source]' derivation='None' name='[none:Lead_Source:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='height' field='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[my:Payment_Date:ok]' value='80' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-orientation' field='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[my:Payment_Date:ok]' value='-90' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Lead_Source:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[ctd:Client_ID:qk]</rows>
+        <cols>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[my:Payment_Date:ok]</cols>
+      </table>
+      <simple-id uuid='{FEFCAF6B-C739-490D-8990-6C5DED1DE4FE}' />
+    </worksheet>
+    <worksheet name='View 3 - Engagement Success Link'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#555555' fontname='Tableau Semibold' fontsize='16'>Engagement-Success Link: Check-ins vs Goal Achievement</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Checkin Rate Pct' datatype='real' name='[Checkin_Rate_Pct]' role='measure' type='quantitative' />
+            <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+            <column caption='Goal Achieved Encoded' datatype='integer' name='[Goal_Achieved_Encoded]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Status]' role='dimension' type='nominal' />
+            <column-instance column='[Checkin_Rate_Pct]' derivation='Avg' name='[avg:Checkin_Rate_Pct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Goal_Achieved_Encoded]' derivation='Avg' name='[avg:Goal_Achieved_Encoded:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Client_ID]' derivation='CountD' name='[ctd:Client_ID:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Status]' derivation='None' name='[none:Status:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Checkin_Rate_Pct:qk]' field-type='quantitative' max='100.0' min='-1.0' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Goal_Achieved_Encoded:qk]' field-type='quantitative' max='2.7584179523969019' min='-0.25230714163557183' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Status:nk]' />
+              <size column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[ctd:Client_ID:qk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold='true' fontcolor='#666666' fontsize='12'><![CDATA[Client ID: <[federated.0eok7o60h8vf3q12ije7b1rhpom1].[ctd:Client_ID:qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run bold='true' fontcolor='#666666' fontsize='12'>Check-in Rate: </run>
+                <run bold='true' fontcolor='#666666' fontsize='12'><![CDATA[<[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Checkin_Rate_Pct:qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run bold='true' fontcolor='#666666' fontsize='12'>Goal Achievement: </run>
+                <run bold='true' fontcolor='#666666' fontsize='12'><![CDATA[<[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Goal_Achieved_Encoded:qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run bold='true' fontcolor='#666666' fontsize='12'><![CDATA[Status: <[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Status:nk]>]]></run>
+                <run>Æ&#10;</run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='2.6408839225769043' />
+                <format attr='mark-transparency' value='255' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Goal_Achieved_Encoded:qk]</rows>
+        <cols>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Checkin_Rate_Pct:qk]</cols>
+      </table>
+      <simple-id uuid='{11A13F33-7B93-4101-88D5-AA3937F2B6E0}' />
+    </worksheet>
+    <worksheet name='View 4 - Retention Funnel'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#666666' fontname='Tableau Semibold' fontsize='16'>Retention Funnel: Client Journey Drop-Off</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_funnel' name='federated.1ccllz00xj5wwp17xql951oysa0t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1ccllz00xj5wwp17xql951oysa0t'>
+            <column caption='Client Count' datatype='integer' name='[Client_Count]' role='measure' type='quantitative' />
+            <column caption='Funnel Stage' datatype='string' name='[Funnel_Stage]' role='dimension' type='nominal' />
+            <column caption='Stage Number' datatype='integer' name='[Stage_Number]' role='dimension' type='ordinal' />
+            <column-instance column='[Funnel_Stage]' derivation='None' name='[none:Funnel_Stage:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Stage_Number]' derivation='None' name='[none:Stage_Number:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Client_Count]' derivation='Sum' name='[sum:Client_Count:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='tick-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.1ccllz00xj5wwp17xql951oysa0t].[none:Stage_Number:ok]' value='false' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.1ccllz00xj5wwp17xql951oysa0t].[sum:Client_Count:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+              <style-rule element='trendline'>
+                <format attr='stroke-size' value='0' />
+                <format attr='line-visibility' value='off' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1ccllz00xj5wwp17xql951oysa0t].[none:Stage_Number:ok] / [federated.1ccllz00xj5wwp17xql951oysa0t].[none:Funnel_Stage:nk])</rows>
+        <cols>[federated.1ccllz00xj5wwp17xql951oysa0t].[sum:Client_Count:qk]</cols>
+      </table>
+      <simple-id uuid='{9AE3CB6A-5D07-47B7-86A5-0B205E5AFA3D}' />
+    </worksheet>
+    <worksheet name='View 5 - Superfan Pipeline'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#666666' fontname='Tableau Semibold' fontsize='16'>Superfan Pipeline: Client Advocacy Potential</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Superfan Score Group' datatype='string' name='[Calculation_4083005711481298944]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF [Superfan_Score] &gt;= 70 THEN &quot;Strong Superfan&quot;&#10;ELSEIF [Superfan_Score] &gt;= 50 THEN &quot;Potential Superfan&quot;&#10;ELSEIF [Superfan_Score] &gt;= 30 THEN &quot;Developing Client&quot;&#10;ELSE &quot;Low Advocacy&quot;&#10;END' />
+            </column>
+            <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+            <column caption='Superfan Score' datatype='integer' name='[Superfan_Score]' role='measure' type='quantitative' />
+            <column-instance column='[Client_ID]' derivation='CountD' name='[ctd:Client_ID:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_4083005711481298944]' derivation='None' name='[none:Calculation_4083005711481298944:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Calculation_4083005711481298944:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Low Advocacy&quot;</bucket>
+              <bucket>&quot;Developing Client&quot;</bucket>
+              <bucket>&quot;Potential Superfan&quot;</bucket>
+              <bucket>&quot;Strong Superfan&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+            <format attr='tick-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' scope='rows' value='1' />
+            <format attr='line-visibility' scope='rows' value='on' />
+            <format attr='line-pattern-only' scope='rows' value='dotted' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Calculation_4083005711481298944:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text />
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-transparency' value='255' />
+              </style-rule>
+              <style-rule element='trendline'>
+                <format attr='stroke-size' value='0' />
+                <format attr='line-visibility' value='off' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[ctd:Client_ID:qk]</rows>
+        <cols>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Calculation_4083005711481298944:nk]</cols>
+      </table>
+      <simple-id uuid='{5ABF5E5B-8889-467D-A44F-42EB08415172}' />
+    </worksheet>
+    <worksheet name='View 6 - Referral Impact'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#666666' fontname='Tableau Semibold' fontsize='16'>Referral Impact: Do Referred Clients Perform Better?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Referral Group' datatype='string' name='[Calculation_4083005711483424769]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF [Was_Referred] = TRUE THEN &quot;Referred Client&quot;&#10;ELSE &quot;Non-Referred Client&quot;&#10;END' />
+            </column>
+            <column caption='Completion Flag' datatype='integer' name='[Calculation_4083005711483637762]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='IF [Status] = &quot;Completed&quot; THEN 1 ELSE 0 END' />
+            </column>
+            <column caption='Goal Success Flag' datatype='integer' name='[Calculation_4083005711483744259]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='IF [Goal_Achieved] = &quot;Yes&quot; THEN 1 ELSE 0 END' />
+            </column>
+            <column caption='Second Round Flag' datatype='integer' name='[Calculation_4083005711483867140]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='IF [Second_Round] = &quot;Yes&quot; THEN 1 ELSE 0 END' />
+            </column>
+            <column caption='Goal Achieved' datatype='string' name='[Goal_Achieved]' role='dimension' type='nominal' />
+            <column caption='Second Round' datatype='string' name='[Second_Round]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Status]' role='dimension' type='nominal' />
+            <column caption='Was Referred' datatype='boolean' name='[Was_Referred]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_4083005711483637762]' derivation='Avg' name='[avg:Calculation_4083005711483637762:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_4083005711483744259]' derivation='Avg' name='[avg:Calculation_4083005711483744259:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_4083005711483867140]' derivation='Avg' name='[avg:Calculation_4083005711483867140:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_4083005711483424769]' derivation='None' name='[none:Calculation_4083005711483424769:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Calculation_4083005711483637762:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Calculation_4083005711483744259:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Calculation_4083005711483867140:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Calculation_4083005711483637762:qk]' value='' />
+            <format attr='text-format' field='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[Multiple Values]' value='p0%' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Calculation_4083005711483424769:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[Multiple Values]</rows>
+        <cols>([federated.0eok7o60h8vf3q12ije7b1rhpom1].[:Measure Names] / [federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Calculation_4083005711483424769:nk])</cols>
+      </table>
+      <simple-id uuid='{95C0DDC3-5F8C-40CF-A9C1-C6B02E4B0E4F}' />
+    </worksheet>
+    <worksheet name='View 7 - At Risk Signal'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#666666' fontname='Tableau Semibold' fontsize='16'>At-Risk Signal: Late Engagement Increases Churn Risk</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Engagement Timing Group' datatype='string' name='[Calculation_4083005711491985413]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF [Days_To_First_Engagement] = 999 THEN &quot;Never&quot;&#10;ELSE STR([Days_To_First_Engagement])&#10;END' />
+            </column>
+            <column caption='Churn Probability' datatype='real' name='[Churn_Probability]' role='measure' type='quantitative' />
+            <column aggregation='Sum' caption='Days To First Engagement' datatype='integer' name='[Days_To_First_Engagement]' role='dimension' type='ordinal' />
+            <column-instance column='[Churn_Probability]' derivation='Avg' name='[avg:Churn_Probability:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_4083005711491985413]' derivation='None' name='[none:Calculation_4083005711491985413:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Days_To_First_Engagement]' derivation='Sum' name='[sum:Days_To_First_Engagement:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Churn_Probability:qk]' value='p0%' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[sum:Days_To_First_Engagement:qk]' max='132867' min='0' num-steps='7' type='custom-interpolated'>
+              <color-palette custom='true' name='' type='ordered-diverging'>
+                <color>#86bcb6</color>
+                <color>#8cbeb9</color>
+                <color>#93c1bc</color>
+                <color>#9ac3bf</color>
+                <color>#a2c6c2</color>
+                <color>#a9c9c5</color>
+                <color>#b1cbc8</color>
+                <color>#b8cecc</color>
+                <color>#c0d1cf</color>
+                <color>#c8d3d2</color>
+                <color>#d0d6d5</color>
+                <color>#d9d9d9</color>
+                <color>#d9cdcd</color>
+                <color>#dac2c2</color>
+                <color>#dbb6b7</color>
+                <color>#dbaaab</color>
+                <color>#dc9fa0</color>
+                <color>#dd9394</color>
+                <color>#de8788</color>
+                <color>#de7b7c</color>
+                <color>#df6f70</color>
+                <color>#e06365</color>
+                <color>#e15759</color>
+              </color-palette>
+            </encoding>
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[sum:Days_To_First_Engagement:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[avg:Churn_Probability:qk]</rows>
+        <cols>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Calculation_4083005711491985413:nk]</cols>
+      </table>
+      <simple-id uuid='{7619AFC3-E7BF-48B6-9EFD-F31A88C30EC5}' />
+    </worksheet>
+    <worksheet name='View 8 - Health Condition Opportunity'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#666666' fontname='Tableau Semibold' fontsize='16'>Health Condition Opportunity: Where Can Drishti Specialize?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_clients' name='federated.0eok7o60h8vf3q12ije7b1rhpom1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0eok7o60h8vf3q12ije7b1rhpom1'>
+            <column caption='Client ID' datatype='string' name='[Client_ID]' role='dimension' type='nominal' />
+            <column caption='Health Condition' datatype='string' name='[Health_Condition]' role='dimension' type='nominal' />
+            <column-instance column='[Client_ID]' derivation='CountD' name='[ctd:Client_ID:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Health_Condition]' derivation='None' name='[none:Health_Condition:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Health_Condition:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Health_Condition:nk]' />
+              <groupfilter function='member' level='[none:Health_Condition:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Health_Condition:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[ctd:Client_ID:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Health_Condition:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Health_Condition:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Health_Condition:nk]</rows>
+        <cols>[federated.0eok7o60h8vf3q12ije7b1rhpom1].[ctd:Client_ID:qk]</cols>
+      </table>
+      <simple-id uuid='{E9EF0C7E-F870-4CC6-9F64-EED2A5FC035A}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Dashboard - Get Fit with Drishti'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#555555' fontname='Tableau Semibold' fontsize='16'>Get Fit with Drishti — Client Success Dashboard</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <style />
+      <size maxheight='800' maxwidth='1500' minheight='800' minwidth='1500' sizing-mode='fixed' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98000' id='33' param='horz' type-v2='layout-flow' w='98934' x='533' y='1000'>
+            <zone h='98000' id='22' param='vert' type-v2='layout-flow' w='98934' x='533' y='1000'>
+              <zone fixed-size='169' h='22125' id='23' is-fixed='true' type-v2='title' w='98934' x='533' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='75875' id='14' param='vert' type-v2='layout-flow' w='98934' x='533' y='23125'>
+                <zone h='75875' id='3' param='vert' type-v2='layout-flow' w='98934' x='533' y='23125'>
+                  <zone h='40750' id='28' name='View 2 - Acquisition Health' w='98934' x='533' y='23125'>
+                    <layout-cache minheight='244' type-h='scalable' type-w='cell' />
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone h='35125' id='31' name='View 3 - Engagement Success Link' w='98934' x='533' y='63875'>
+                    <layout-cache minheight='199' minwidth='160' type-h='scalable' type-w='scalable' />
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+        <zone h='17500' id='16' name='KPI - Total Clients' show-title='false' w='19333' x='400' y='5125'>
+          <layout-cache type-h='cell' type-w='cell' />
+        </zone>
+        <zone h='17500' id='17' name='KPI - Completion Rate' show-title='false' w='18867' x='19800' y='5125'>
+          <layout-cache cell-count-w='1' type-h='cell' type-w='cell' />
+        </zone>
+        <zone h='17500' id='18' name='KPI-Goal Achievement' show-title='false' w='19400' x='38600' y='5125'>
+          <layout-cache cell-count-w='1' type-h='cell' type-w='cell' />
+        </zone>
+        <zone h='17500' id='19' name='KPI - Superfan Rate' show-title='false' w='19333' x='58067' y='5125'>
+          <layout-cache cell-count-h='1' type-h='cell' type-w='cell' />
+        </zone>
+        <zone h='17500' id='20' name='KPI - Second Round Rate' show-title='false' w='19333' x='77467' y='5125'>
+          <layout-cache cell-count-w='1' type-h='cell' type-w='cell' />
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <layout-options>
+            <title>
+              <formatted-text>
+                <run bold='true' fontcolor='#555555' fontname='Tableau Semibold' fontsize='16'>Get Fit with Drishti — Client Success Dashboard</run>
+              </formatted-text>
+            </title>
+          </layout-options>
+          <size maxheight='1400' minheight='1400' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='39' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='38' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+                <zone fixed-size='169' h='22125' id='23' type-v2='title' w='98934' x='533' y='1000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='140' h='17500' id='16' is-fixed='true' name='KPI - Total Clients' show-title='false' w='19333' x='400' y='5125'>
+                  <layout-cache type-h='cell' type-w='cell' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='140' h='17500' id='17' is-fixed='true' name='KPI - Completion Rate' show-title='false' w='18867' x='19800' y='5125'>
+                  <layout-cache cell-count-w='1' type-h='cell' type-w='cell' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='140' h='17500' id='18' is-fixed='true' name='KPI-Goal Achievement' show-title='false' w='19400' x='38600' y='5125'>
+                  <layout-cache cell-count-w='1' type-h='cell' type-w='cell' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='140' h='17500' id='19' is-fixed='true' name='KPI - Superfan Rate' show-title='false' w='19333' x='58067' y='5125'>
+                  <layout-cache cell-count-h='1' type-h='cell' type-w='cell' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='140' h='17500' id='20' is-fixed='true' name='KPI - Second Round Rate' show-title='false' w='19333' x='77467' y='5125'>
+                  <layout-cache cell-count-w='1' type-h='cell' type-w='cell' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='40750' id='28' is-fixed='true' name='View 2 - Acquisition Health' w='98934' x='533' y='23125'>
+                  <layout-cache minheight='244' type-h='scalable' type-w='cell' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='273' h='35125' id='31' is-fixed='true' name='View 3 - Engagement Success Link' w='98934' x='533' y='63875'>
+                  <layout-cache minheight='199' minwidth='160' type-h='scalable' type-w='scalable' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{5FD40A32-0A7B-4F88-9EE5-9DF949EA874B}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='51'>
+    <window class='worksheet' name='KPI - Total Clients'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{7E1DD611-ACF1-414B-8CE9-B2DB3473FE1B}' />
+    </window>
+    <window class='worksheet' name='KPI - Completion Rate'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{A64F5FEE-EBDC-48B3-A6CA-A54878E2F38E}' />
+    </window>
+    <window class='worksheet' name='KPI-Goal Achievement'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{9D7F8882-2AE8-451F-B714-EC636668FFCA}' />
+    </window>
+    <window class='worksheet' name='KPI - Superfan Rate'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{D0577183-6AC7-4D54-910D-070AA90E51FB}' />
+    </window>
+    <window class='worksheet' name='KPI - Second Round Rate'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{F7BDFE31-C7E0-4ECC-B0FE-83B6637E1668}' />
+    </window>
+    <window class='worksheet' name='View 2 - Acquisition Health'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Lead_Source:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{0BAC6BEF-2DFD-4B9F-A7AF-81803C3389D2}' />
+    </window>
+    <window class='worksheet' name='View 3 - Engagement Success Link'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[ctd:Client_ID:qk]' type='size' />
+            <card pane-specification-id='0' param='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Status:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{D92EE2A6-95F2-472C-B50D-94537928A85A}' />
+    </window>
+    <window class='dashboard' name='Dashboard - Get Fit with Drishti'>
+      <viewpoints>
+        <viewpoint name='KPI - Completion Rate'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='KPI - Second Round Rate'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='KPI - Superfan Rate'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='KPI - Total Clients'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='KPI-Goal Achievement'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='View 2 - Acquisition Health'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='View 3 - Engagement Success Link'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{B5BB7C47-4CF8-49DB-A759-78ED93127862}' />
+    </window>
+    <window class='worksheet' name='View 4 - Retention Funnel'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{D42C8BD8-F124-42F3-9E49-2E277A584567}' />
+    </window>
+    <window class='worksheet' name='View 5 - Superfan Pipeline'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Calculation_4083005711481298944:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{36F901DB-62EA-4029-A9EB-92C59089C701}' />
+    </window>
+    <window class='worksheet' name='View 6 - Referral Impact'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='2' param='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Calculation_4083005711483424769:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{D3FC198F-83C7-4F7B-B086-7A904971C043}' />
+    </window>
+    <window class='worksheet' name='View 7 - At Risk Signal'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[sum:Days_To_First_Engagement:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{52D03C69-351A-4791-8AD7-19497779E29E}' />
+    </window>
+    <window class='worksheet' maximized='true' name='View 8 - Health Condition Opportunity'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0eok7o60h8vf3q12ije7b1rhpom1].[none:Health_Condition:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{E07E577E-C005-40FD-B793-7E70AC493FC2}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='384' name='View 7 - At Risk Signal' width='384'>
+      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
+    </thumbnail>
+    <thumbnail height='384' name='View 8 - Health Condition Opportunity' width='384'>
+      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
+      TUk6cOCAZs+ererqap04cSLvmzfuUI2NjZo7d67ee++9QN7PkydPau3aterq6lJNTY2Gh4f1
+      5JNP6vDhwzn/83QcR8lkUosXL1ZPT49KSkq0Zs0avf/++3n7c715M6j70s2bUjD3pZs3g7ov
+      3byZSCSUTCbV3Nys8+fPq6+vLy+bkUhEDQ0NqqysVEdHh65cuaLW1lZ1d3ertLRUiUQi5/ff
+      2zebm5tVX1+vrq4uVVRUaGRkJCebM+4KIJvNKhqNSsrfp2CFw2F1dHTo5MmTevrpp7Vv3z45
+      jqOysjKNj4/nZXNgYGB648anteV7M5FIqLe3V9L1q54gNiWpoqJC77zzjqampjQ5OamysjJJ
+      +fnzLC8vn/738fFxlZWVKRQKyXGc6R9z/f7evBnUfenmzaDuSzdvBnVfunlz1qxZ6u/v18jI
+      iB5++GH19vbmZTMSiejUqVPq7e3Vhg0btHv3bklSaWmpBgcH83L/vX3T93395S9/0UMPPaRs
+      NpuzzRn3HIDruhofH1c2m5XneXnZGB8f1wcffKCNGzcqGo3KcRyNj49P/401H6ampuQ4js6d
+      O6ezZ88GsllbW6uKigq1tLTI87xANiXp8uXLam1tnd7o6+tTKpXK+1dW1tbWqrOzU6OjowqH
+      w4G8v9yX8rfZ1dWlZcuWqbW1VR9++GHeNi9fvqwrV67oqaeeUigUUjqdVjqdVn9/vx588MG8
+      3H9v39y9e7daWlq0dOlSlZeX52xzRn4aaGdnp86dO6fPfOYzqq6uzvntDw8P69ixYwqHw5o7
+      d64WL16sffv2qbq6Oi/POdzs8uXLKisrk+u6gWyeOnVKfX19am5uVklJSSCbvb29OnPmjGbP
+      nq2VK1eqvb1dPT09evzxx3P+sNPx48c1NDSkWCymz372s2pra9Pw8LA+//nPy/f9vLy/N2/W
+      19fr5MmTeb8v3f5+xmKxvN+Xbt+88TBMPu9LN2+2tLTo6NGjmpyc1IoVKzRr1qy8bPb29qq9
+      vV2u62rRokWqrKzUwYMH9eCDD6qhoSEv99/bN288xCZJq1evVmdnZ042Z2QAAAD3bsY9BAQA
+      yA0CAABGEQAAMOq/ASfUdz4h9efKAAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>

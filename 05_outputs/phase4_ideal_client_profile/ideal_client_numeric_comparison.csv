@@ -1,0 +1,9 @@
+Metric,Other_Client_Avg,Ideal_Client_Avg,Difference,Pct_Difference
+Age,32.79,33.32,0.53,1.63
+Goal_Gap_kg,13.14,12.47,-0.67,-5.07
+Payment_Speed_Days,3.07,2.74,-0.33,-10.59
+Days_To_First_Engagement,73.44,1.66,-71.78,-97.74
+Checkin_Rate_Pct,63.94,92.73,28.78,45.01
+Weekly_Checkins_Completed,8.95,12.98,4.03,45.02
+Program_Duration_Days,77.82,100.0,22.18,28.5
+Revenue_USD,285.78,285.64,-0.13,-0.05

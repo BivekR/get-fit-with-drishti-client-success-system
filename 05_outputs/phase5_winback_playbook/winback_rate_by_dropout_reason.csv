@@ -1,0 +1,4 @@
+Dropout_Reason,Total_Dropouts,Returned_Clients,Winback_Rate_Pct,Did_Not_Return
+Health Issue,7,7,100.0,0
+Busy Schedule,41,32,78.05,9
+Laziness,22,14,63.64,8

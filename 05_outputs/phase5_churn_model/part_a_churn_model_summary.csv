@@ -1,0 +1,10 @@
+Section,Result
+Business Goal,Predict which new clients may churn early so Drishti can intervene before they disappear.
+Target Variable,"Churned = 1 for Ghost, Inactive, or Quit clients; Churned = 0 for Completed clients."
+Selected Model,Logistic Regression was selected because it had the highest recall.
+Best Model Recall,57.89%
+Best Model AUC-ROC,73.13%
+Top Churn Signal,Days_To_First_Engagement was the strongest early churn signal.
+Top 3 Churn Signals,"Delayed first engagement, shift work schedule, and low starting motivation."
+Business Tool Created,"New-client risk-checking function that returns risk level, churn probability, and recommended action."
+Recommended Weekly Use,"Run the risk check after intake or during week 1, then prioritize high-risk clients for personal follow-up."

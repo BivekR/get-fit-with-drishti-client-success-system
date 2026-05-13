@@ -1,0 +1,4 @@
+If Client Dropped Because,Total Dropouts,Returned Clients,Did Not Return,Win-Back Rate (%),Typical Return Time (Weeks),Average Return Time (Weeks),Success After Return (%),Send This Type of Message,Business Priority Note
+Health Issue,7,7,0,100.0,9.0,9.14,0.0,Send a caring health-first message and offer a gentle restart when they feel ready.,Handle carefully because win-back rate is high but sample size is very small.
+Busy Schedule,41,32,9,78.05,9.5,9.59,0.0,Send a flexible reset message with a simpler plan and 10-minute daily goal.,High priority because this is the largest dropout reason with strong win-back potential.
+Laziness,22,14,8,63.64,4.5,6.86,0.0,Send an accountability message with a tiny comeback challenge and quick check-in.,Needs stronger accountability because return rate is lower than other known reasons.

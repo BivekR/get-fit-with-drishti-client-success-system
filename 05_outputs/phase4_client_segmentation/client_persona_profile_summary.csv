@@ -1,0 +1,5 @@
+Cluster,Persona,Client_Count,Avg_Age,Avg_Goal_Gap_kg,Avg_Checkin_Rate_Pct,Avg_Program_Duration_Days,Avg_Payment_Speed_Days,Avg_Days_To_First_Engagement,Avg_Motivation_Level,Engagement_Rate,Referral_Rate,Completion_Rate,Goal_Achievement_Rate,Second_Round_Rate,Progress_Photos_Rate
+0,The Strong Starters,700,32.51,12.53,89.13,99.92,2.86,1.6,0.77,100.0,0.0,99.71,64.71,0.0,79.14
+1,The Early Drop-Offs,429,32.76,14.03,17.02,33.12,3.71,2.89,1.29,100.0,18.41,0.0,0.0,27.04,10.49
+2,The Motivated Finishers,1079,33.13,12.74,88.95,99.98,2.75,1.71,2.0,100.0,0.0,99.91,62.74,0.0,80.35
+3,The Loyal Referrals,659,33.31,12.87,89.0,99.85,2.85,1.71,1.49,100.0,100.0,99.39,61.61,34.75,81.34

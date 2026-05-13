@@ -1,0 +1,6 @@
+Metric,Non_Referred_Value,Referred_Value,Difference_Points,Times_More_Likely,Percent_Lift
+Completion_Rate,79.71,84.84,5.13,1.06,6.44
+Goal_Achievement_Rate,50.72,52.59,1.87,1.04,3.69
+Avg_Checkin_Rate_Pct,73.95,77.73,3.78,1.05,5.11
+Second_Round_Rate,6.91,35.49,28.58,5.14,413.6
+Referred_Someone_Else_Rate,22.58,23.06,0.48,1.02,2.13

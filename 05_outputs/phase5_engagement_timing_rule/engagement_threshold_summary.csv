@@ -1,0 +1,3 @@
+Engagement_Threshold_Group,Client_Count,Completion_Rate_Pct,Churn_Rate_Pct,Avg_Checkin_Rate_Pct,Goal_Achievement_Rate_Pct
+Did Not Engage Within 3 Days,568,48.94,51.06,49.69,48.94
+Engaged Within 3 Days,2432,88.53,11.47,80.81,88.53

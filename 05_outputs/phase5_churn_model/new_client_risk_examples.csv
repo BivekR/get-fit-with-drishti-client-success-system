@@ -1,0 +1,4 @@
+Example_Client,Risk_Level,Churn_Probability,Recommended_Action
+High Risk Client,HIGH 🔴,0.9811,"Send a personal voice note today, ask what feels difficult, and schedule a quick accountability check-in within 24 hours."
+Medium Risk Client,MEDIUM 🟡,0.4255,"Send a supportive check-in message, remind the client of their first small goal, and ask them to confirm tomorrow's meal/check-in plan."
+Low Risk Client,LOW 🟢,0.0532,Continue normal follow-up and reinforce the client's early progress.

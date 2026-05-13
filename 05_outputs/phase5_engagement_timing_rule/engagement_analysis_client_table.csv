@@ -1,0 +1,3001 @@
+Client_ID,Status,Days_To_First_Engagement,Days_To_First_Engagement_Num,Completed_Flag,Churned_Flag,Checkin_Rate_Pct,Goal_Achieved,Goal_Achieved_Flag,Engagement_Threshold_Group
+C0001,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0002,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0003,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0004,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0005,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0006,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0007,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0008,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0009,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0010,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C0011,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0012,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0013,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0014,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0015,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0016,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0017,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0018,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0019,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0020,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0021,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0022,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0023,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0024,Quit,2,2,0,1,14.3,No,0,Engaged Within 3 Days
+C0025,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0026,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0027,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0028,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0029,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0030,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0031,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C0032,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0033,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0034,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0035,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0036,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0037,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0038,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0039,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0040,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0041,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0042,Quit,2,2,0,1,21.4,No,0,Engaged Within 3 Days
+C0043,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0044,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0045,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0046,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0047,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0048,Completed,7,7,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C0049,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0050,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0051,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0052,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0053,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0054,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0055,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0056,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0057,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0058,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0059,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0060,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0061,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0062,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0063,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C0064,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0065,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0066,Quit,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C0067,Quit,1,1,0,1,21.4,No,0,Engaged Within 3 Days
+C0068,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0069,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0070,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0071,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0072,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0073,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0074,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0075,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0076,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C0077,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0078,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0079,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0080,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0081,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0082,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0083,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0084,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0085,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0086,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0087,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0088,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0089,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0090,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0091,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0092,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0093,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0094,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0095,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0096,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0097,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0098,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0099,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0100,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0101,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0102,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0103,Quit,0,0,0,1,14.3,No,0,Engaged Within 3 Days
+C0104,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0105,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0106,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0107,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0108,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0109,Completed,7,7,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C0110,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0111,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0112,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0113,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0114,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C0115,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0116,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0117,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0118,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0119,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0120,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0121,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0122,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C0123,Ghost,2,2,0,1,0.0,No,0,Engaged Within 3 Days
+C0124,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0125,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0126,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C0127,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0128,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0129,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0130,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0131,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0132,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0133,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0134,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0135,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0136,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C0137,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0138,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0139,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0140,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0141,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0142,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0143,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0144,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0145,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0146,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0147,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0148,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0149,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0150,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0151,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0152,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0153,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0154,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0155,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0156,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0157,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0158,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0159,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0160,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0161,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0162,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0163,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0164,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0165,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0166,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0167,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0168,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0169,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0170,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C0171,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0172,Inactive,1,1,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0173,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0174,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0175,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0176,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0177,Inactive,1,1,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C0178,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0179,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0180,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0181,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0182,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0183,Quit,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C0184,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0185,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0186,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0187,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0188,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0189,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C0190,Ghost,2,2,0,1,0.0,No,0,Engaged Within 3 Days
+C0191,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0192,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0193,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0194,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0195,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0196,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0197,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0198,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0199,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0200,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0201,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0202,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0203,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0204,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0205,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C0206,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0207,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0208,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0209,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0210,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0211,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0212,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C0213,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0214,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0215,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0216,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0217,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0218,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0219,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0220,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0221,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0222,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0223,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0224,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0225,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0226,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0227,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0228,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0229,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0230,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0231,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0232,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0233,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0234,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0235,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0236,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0237,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0238,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0239,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0240,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0241,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0242,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0243,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0244,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0245,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0246,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0247,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0248,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0249,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0250,Inactive,1,1,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0251,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0252,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0253,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0254,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0255,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0256,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0257,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0258,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0259,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0260,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0261,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0262,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0263,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0264,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0265,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0266,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0267,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0268,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0269,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0270,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C0271,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0272,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0273,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0274,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0275,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0276,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0277,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0278,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0279,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0280,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0281,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0282,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0283,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0284,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0285,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0286,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0287,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0288,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0289,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0290,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C0291,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0292,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0293,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0294,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0295,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0296,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0297,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0298,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0299,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0300,Quit,5,5,0,1,14.3,No,0,Did Not Engage Within 3 Days
+C0301,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0302,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0303,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0304,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0305,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0306,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C0307,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0308,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0309,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0310,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0311,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0312,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C0313,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0314,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0315,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0316,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0317,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0318,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0319,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0320,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C0321,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0322,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0323,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0324,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0325,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0326,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0327,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0328,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0329,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0330,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0331,Inactive,2,2,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0332,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0333,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0334,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0335,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0336,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0337,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0338,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0339,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0340,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0341,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0342,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0343,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0344,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0345,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0346,Quit,1,1,0,1,14.3,No,0,Engaged Within 3 Days
+C0347,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0348,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0349,Inactive,1,1,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0350,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0351,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0352,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0353,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0354,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0355,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0356,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0357,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0358,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C0359,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0360,Inactive,1,1,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C0361,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0362,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0363,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0364,Completed,7,7,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C0365,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0366,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0367,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0368,Quit,1,1,0,1,21.4,No,0,Engaged Within 3 Days
+C0369,Quit,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0370,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0371,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0372,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0373,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0374,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0375,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0376,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0377,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C0378,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0379,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0380,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0381,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0382,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0383,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0384,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0385,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0386,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0387,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0388,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0389,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0390,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0391,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0392,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0393,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C0394,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0395,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0396,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0397,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0398,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0399,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0400,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0401,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0402,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0403,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0404,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0405,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0406,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0407,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0408,Inactive,3,3,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0409,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0410,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C0411,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0412,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0413,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0414,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0415,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0416,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0417,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0418,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0419,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C0420,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0421,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0422,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0423,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C0424,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0425,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0426,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0427,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0428,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0429,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0430,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0431,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0432,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0433,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0434,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0435,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0436,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0437,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0438,Inactive,2,2,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C0439,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0440,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0441,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0442,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0443,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0444,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0445,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0446,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0447,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0448,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0449,Inactive,3,3,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0450,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0451,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0452,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0453,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0454,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0455,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0456,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0457,Quit,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0458,Inactive,2,2,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C0459,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0460,Inactive,3,3,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0461,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0462,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0463,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0464,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0465,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0466,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0467,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0468,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0469,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0470,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0471,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0472,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0473,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0474,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0475,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0476,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0477,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C0478,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C0479,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0480,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0481,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0482,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0483,Inactive,2,2,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C0484,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0485,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0486,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0487,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C0488,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0489,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0490,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0491,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0492,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0493,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0494,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0495,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C0496,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0497,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0498,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0499,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0500,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0501,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0502,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0503,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0504,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0505,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0506,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0507,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0508,Ghost,7,7,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0509,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0510,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0511,Ghost,5,5,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0512,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0513,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0514,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0515,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0516,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0517,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0518,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0519,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0520,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0521,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0522,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0523,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0524,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0525,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0526,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0527,Inactive,1,1,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0528,Inactive,7,7,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C0529,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C0530,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0531,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0532,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0533,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0534,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0535,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0536,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0537,Ghost,5,5,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0538,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0539,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0540,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0541,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0542,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0543,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0544,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0545,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C0546,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0547,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0548,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0549,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0550,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0551,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0552,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0553,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0554,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0555,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0556,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0557,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C0558,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0559,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0560,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0561,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0562,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0563,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0564,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0565,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0566,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C0567,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0568,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0569,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C0570,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0571,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0572,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0573,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0574,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0575,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0576,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0577,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0578,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0579,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0580,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0581,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0582,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0583,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C0584,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0585,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0586,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0587,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0588,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0589,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0590,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0591,Inactive,1,1,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C0592,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0593,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0594,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0595,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0596,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0597,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0598,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0599,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0600,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0601,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0602,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0603,Quit,1,1,0,1,21.4,No,0,Engaged Within 3 Days
+C0604,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0605,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0606,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C0607,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0608,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0609,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0610,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0611,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0612,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0613,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0614,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0615,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0616,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0617,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0618,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0619,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0620,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0621,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0622,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0623,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0624,Inactive,3,3,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0625,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0626,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0627,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0628,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0629,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0630,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0631,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0632,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0633,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0634,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0635,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0636,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0637,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0638,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0639,Quit,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C0640,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0641,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0642,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0643,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0644,Ghost,2,2,0,1,0.0,No,0,Engaged Within 3 Days
+C0645,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0646,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0647,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0648,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0649,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0650,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0651,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0652,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0653,Inactive,2,2,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C0654,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0655,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0656,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0657,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0658,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0659,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0660,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0661,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0662,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0663,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0664,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0665,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0666,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0667,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0668,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0669,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0670,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0671,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C0672,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0673,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0674,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0675,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0676,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0677,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0678,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0679,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0680,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0681,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0682,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0683,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0684,Quit,1,1,0,1,14.3,No,0,Engaged Within 3 Days
+C0685,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0686,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0687,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0688,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0689,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0690,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0691,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0692,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0693,Inactive,3,3,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0694,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0695,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0696,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0697,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0698,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0699,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0700,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0701,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0702,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0703,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C0704,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0705,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0706,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0707,Ghost,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C0708,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0709,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0710,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0711,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0712,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0713,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0714,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0715,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0716,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C0717,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0718,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0719,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0720,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0721,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0722,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0723,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0724,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0725,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0726,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0727,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0728,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0729,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0730,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0731,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0732,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0733,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0734,Inactive,1,1,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C0735,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C0736,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C0737,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C0738,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0739,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0740,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0741,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0742,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0743,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0744,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0745,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0746,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0747,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0748,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0749,Completed,7,7,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0750,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0751,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0752,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0753,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0754,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C0755,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0756,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0757,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0758,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0759,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C0760,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0761,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0762,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0763,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0764,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0765,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0766,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0767,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0768,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0769,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0770,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0771,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0772,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0773,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0774,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0775,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0776,Quit,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C0777,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0778,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0779,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0780,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0781,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0782,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0783,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0784,Ghost,7,7,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0785,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0786,Quit,1,1,0,1,14.3,No,0,Engaged Within 3 Days
+C0787,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0788,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0789,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0790,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C0791,Quit,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0792,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0793,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0794,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0795,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0796,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C0797,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0798,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0799,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0800,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0801,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0802,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0803,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0804,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0805,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C0806,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0807,Completed,7,7,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0808,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0809,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0810,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0811,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0812,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0813,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0814,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0815,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0816,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0817,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0818,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0819,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0820,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0821,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0822,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0823,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0824,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0825,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0826,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0827,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0828,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0829,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0830,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0831,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C0832,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0833,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0834,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0835,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0836,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0837,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0838,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0839,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0840,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0841,Inactive,3,3,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C0842,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0843,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0844,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0845,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0846,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0847,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0848,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0849,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0850,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0851,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0852,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0853,Quit,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C0854,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0855,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0856,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0857,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0858,Inactive,3,3,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C0859,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0860,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0861,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0862,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0863,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0864,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0865,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0866,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0867,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0868,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0869,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0870,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0871,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0872,Inactive,1,1,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C0873,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0874,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0875,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0876,Ghost,7,7,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0877,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0878,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0879,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0880,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0881,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0882,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0883,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0884,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0885,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0886,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0887,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C0888,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0889,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0890,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0891,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0892,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0893,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0894,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0895,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0896,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C0897,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0898,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0899,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0900,Completed,7,7,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C0901,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0902,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0903,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0904,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0905,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0906,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0907,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C0908,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0909,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0910,Inactive,3,3,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0911,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0912,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0913,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0914,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0915,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0916,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0917,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0918,Quit,1,1,0,1,21.4,No,0,Engaged Within 3 Days
+C0919,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C0920,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0921,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0922,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0923,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C0924,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0925,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0926,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0927,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0928,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0929,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0930,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0931,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0932,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0933,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0934,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0935,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0936,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0937,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0938,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0939,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0940,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0941,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0942,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0943,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0944,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0945,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0946,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C0947,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0948,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C0949,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0950,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0951,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0952,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0953,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0954,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0955,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0956,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0957,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0958,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C0959,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0960,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0961,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0962,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0963,Quit,2,2,0,1,21.4,No,0,Engaged Within 3 Days
+C0964,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0965,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C0966,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0967,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0968,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0969,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0970,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C0971,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0972,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C0973,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0974,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0975,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0976,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C0977,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0978,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C0979,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0980,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C0981,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0982,Quit,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C0983,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0984,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C0985,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0986,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0987,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0988,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0989,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C0990,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C0991,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C0992,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C0993,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C0994,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C0995,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C0996,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C0997,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C0998,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C0999,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1000,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1001,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1002,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1003,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1004,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C1005,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1006,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1007,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1008,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1009,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C1010,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1011,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1012,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1013,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1014,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1015,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1016,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1017,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1018,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C1019,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1020,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1021,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1022,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1023,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1024,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1025,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1026,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1027,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1028,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1029,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1030,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C1031,Completed,7,7,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1032,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1033,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1034,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1035,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1036,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1037,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1038,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1039,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1040,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1041,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1042,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1043,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1044,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1045,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1046,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1047,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1048,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1049,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1050,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1051,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1052,Inactive,1,1,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1053,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1054,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1055,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1056,Inactive,0,0,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1057,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1058,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1059,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1060,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1061,Inactive,2,2,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1062,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1063,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1064,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1065,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1066,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1067,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1068,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1069,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1070,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1071,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1072,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1073,Quit,3,3,0,1,21.4,No,0,Engaged Within 3 Days
+C1074,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1075,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1076,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1077,Inactive,2,2,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1078,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1079,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1080,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1081,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1082,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1083,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1084,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1085,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1086,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1087,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1088,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1089,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1090,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1091,Ghost,5,5,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1092,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1093,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1094,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1095,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1096,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1097,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1098,Quit,0,0,0,1,21.4,No,0,Engaged Within 3 Days
+C1099,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1100,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1101,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1102,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1103,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C1104,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C1105,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1106,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1107,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1108,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1109,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1110,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1111,Ghost,5,5,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1112,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1113,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1114,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1115,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1116,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1117,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1118,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1119,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1120,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1121,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1122,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C1123,Inactive,3,3,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1124,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1125,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1126,Quit,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C1127,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1128,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C1129,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1130,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1131,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1132,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1133,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1134,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1135,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1136,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1137,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1138,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1139,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1140,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1141,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C1142,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1143,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1144,Ghost,5,5,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1145,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1146,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1147,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C1148,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1149,Quit,2,2,0,1,21.4,No,0,Engaged Within 3 Days
+C1150,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1151,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1152,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1153,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1154,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1155,Quit,3,3,0,1,14.3,No,0,Engaged Within 3 Days
+C1156,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C1157,Inactive,3,3,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1158,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1159,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1160,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1161,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1162,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1163,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1164,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1165,Inactive,2,2,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1166,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1167,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1168,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C1169,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1170,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1171,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1172,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1173,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1174,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1175,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1176,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1177,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1178,Quit,3,3,0,1,14.3,No,0,Engaged Within 3 Days
+C1179,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C1180,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1181,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1182,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1183,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C1184,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1185,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1186,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1187,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1188,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1189,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1190,Inactive,1,1,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1191,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1192,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1193,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1194,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1195,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1196,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1197,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1198,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1199,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1200,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1201,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1202,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1203,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1204,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1205,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1206,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C1207,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1208,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1209,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1210,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1211,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1212,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1213,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1214,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1215,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1216,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1217,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1218,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1219,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1220,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1221,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1222,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1223,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1224,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1225,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1226,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1227,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1228,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1229,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1230,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1231,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1232,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1233,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1234,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1235,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1236,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1237,Ghost,2,2,0,1,0.0,No,0,Engaged Within 3 Days
+C1238,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1239,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1240,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1241,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1242,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1243,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1244,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1245,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1246,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1247,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1248,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1249,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1250,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1251,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1252,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1253,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1254,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1255,Completed,7,7,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1256,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1257,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1258,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C1259,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1260,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1261,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1262,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1263,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1264,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1265,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1266,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1267,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1268,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C1269,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1270,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1271,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1272,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1273,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C1274,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1275,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1276,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1277,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1278,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1279,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1280,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1281,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1282,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1283,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1284,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1285,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1286,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1287,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1288,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1289,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1290,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1291,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1292,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1293,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1294,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1295,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1296,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1297,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C1298,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1299,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1300,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1301,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1302,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1303,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1304,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C1305,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1306,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1307,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1308,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1309,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1310,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1311,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1312,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1313,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1314,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1315,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1316,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1317,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1318,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1319,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1320,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1321,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C1322,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1323,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1324,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1325,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1326,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1327,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1328,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1329,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1330,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1331,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1332,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1333,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1334,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1335,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1336,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1337,Completed,7,7,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C1338,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C1339,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1340,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1341,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1342,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1343,Completed,7,7,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1344,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C1345,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1346,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1347,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1348,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1349,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1350,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1351,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1352,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1353,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1354,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1355,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1356,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1357,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1358,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1359,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1360,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1361,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1362,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1363,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1364,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1365,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1366,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1367,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1368,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1369,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C1370,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1371,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1372,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1373,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C1374,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1375,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1376,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1377,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1378,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1379,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C1380,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1381,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1382,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1383,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1384,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1385,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1386,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1387,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1388,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1389,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1390,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1391,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1392,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1393,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1394,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1395,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1396,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1397,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1398,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C1399,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1400,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1401,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1402,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1403,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1404,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1405,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1406,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1407,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1408,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1409,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C1410,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1411,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1412,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1413,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1414,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1415,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1416,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1417,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1418,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1419,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1420,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1421,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1422,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1423,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1424,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1425,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1426,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1427,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1428,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1429,Inactive,2,2,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1430,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1431,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1432,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1433,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1434,Completed,7,7,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C1435,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C1436,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1437,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1438,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C1439,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1440,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1441,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1442,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1443,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1444,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1445,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1446,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1447,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1448,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1449,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1450,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1451,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1452,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1453,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1454,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1455,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1456,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1457,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1458,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1459,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1460,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1461,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1462,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1463,Inactive,1,1,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C1464,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1465,Ghost,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C1466,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1467,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1468,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1469,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1470,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1471,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1472,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1473,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1474,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1475,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1476,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1477,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C1478,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1479,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1480,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1481,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1482,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1483,Quit,2,2,0,1,21.4,No,0,Engaged Within 3 Days
+C1484,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1485,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1486,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1487,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1488,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1489,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1490,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1491,Quit,1,1,0,1,21.4,No,0,Engaged Within 3 Days
+C1492,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1493,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C1494,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1495,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1496,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1497,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C1498,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C1499,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1500,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1501,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1502,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1503,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1504,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1505,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1506,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C1507,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1508,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1509,Quit,7,7,0,1,14.3,No,0,Did Not Engage Within 3 Days
+C1510,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1511,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1512,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1513,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1514,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1515,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1516,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1517,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1518,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1519,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1520,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1521,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1522,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C1523,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1524,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1525,Completed,7,7,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C1526,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C1527,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1528,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C1529,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1530,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1531,Ghost,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C1532,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1533,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1534,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1535,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1536,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1537,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1538,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1539,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1540,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1541,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1542,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1543,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C1544,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1545,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1546,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C1547,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1548,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1549,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1550,Inactive,1,1,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1551,Quit,3,3,0,1,14.3,No,0,Engaged Within 3 Days
+C1552,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1553,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1554,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1555,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1556,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1557,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1558,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1559,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1560,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1561,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1562,Inactive,0,0,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1563,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C1564,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1565,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1566,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1567,Inactive,1,1,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1568,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1569,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1570,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1571,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1572,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1573,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1574,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1575,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1576,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1577,Inactive,0,0,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1578,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1579,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1580,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1581,Quit,7,7,0,1,21.4,No,0,Did Not Engage Within 3 Days
+C1582,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1583,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1584,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1585,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1586,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1587,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C1588,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1589,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1590,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1591,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1592,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1593,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C1594,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1595,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1596,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1597,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C1598,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1599,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1600,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1601,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1602,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1603,Inactive,3,3,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1604,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1605,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1606,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1607,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1608,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1609,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1610,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1611,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1612,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1613,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1614,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1615,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1616,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1617,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1618,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1619,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1620,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1621,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1622,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1623,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C1624,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1625,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1626,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1627,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1628,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C1629,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1630,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1631,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1632,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1633,Quit,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1634,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1635,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1636,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1637,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1638,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1639,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1640,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1641,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1642,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1643,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1644,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1645,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1646,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1647,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1648,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1649,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1650,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1651,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1652,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1653,Ghost,7,7,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1654,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1655,Inactive,2,2,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1656,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1657,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1658,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1659,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1660,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1661,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1662,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1663,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1664,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1665,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1666,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1667,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1668,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1669,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1670,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1671,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1672,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1673,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1674,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C1675,Inactive,7,7,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C1676,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1677,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1678,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1679,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C1680,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1681,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1682,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1683,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1684,Inactive,2,2,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1685,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1686,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1687,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1688,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1689,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1690,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1691,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1692,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1693,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1694,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1695,Inactive,1,1,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C1696,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1697,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1698,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1699,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1700,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1701,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C1702,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1703,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1704,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1705,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1706,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1707,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1708,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1709,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1710,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1711,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1712,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1713,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1714,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1715,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1716,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1717,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1718,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1719,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1720,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1721,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1722,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1723,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1724,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1725,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1726,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1727,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1728,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1729,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1730,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1731,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1732,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1733,Quit,1,1,0,1,21.4,No,0,Engaged Within 3 Days
+C1734,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1735,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1736,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1737,Quit,0,0,0,1,21.4,No,0,Engaged Within 3 Days
+C1738,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1739,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1740,Quit,1,1,0,1,21.4,No,0,Engaged Within 3 Days
+C1741,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1742,Inactive,2,2,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C1743,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1744,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1745,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1746,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1747,Inactive,1,1,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1748,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1749,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1750,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1751,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1752,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1753,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1754,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1755,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1756,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1757,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1758,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1759,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1760,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1761,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1762,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C1763,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1764,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C1765,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1766,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1767,Completed,7,7,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C1768,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1769,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1770,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1771,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1772,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1773,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1774,Ghost,3,3,0,1,0.0,No,0,Engaged Within 3 Days
+C1775,Inactive,2,2,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C1776,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1777,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1778,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1779,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1780,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1781,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1782,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1783,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C1784,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1785,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1786,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1787,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1788,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1789,Inactive,1,1,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1790,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1791,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1792,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1793,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1794,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1795,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1796,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1797,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1798,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1799,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1800,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1801,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1802,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1803,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1804,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1805,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1806,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1807,Completed,7,7,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C1808,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1809,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1810,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C1811,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1812,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C1813,Ghost,5,5,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1814,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1815,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1816,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1817,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1818,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1819,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1820,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C1821,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1822,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C1823,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1824,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1825,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1826,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1827,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1828,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1829,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1830,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1831,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1832,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C1833,Quit,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C1834,Completed,7,7,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C1835,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1836,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1837,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1838,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1839,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1840,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1841,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1842,Inactive,0,0,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1843,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1844,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1845,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1846,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1847,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1848,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1849,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1850,Quit,3,3,0,1,21.4,No,0,Engaged Within 3 Days
+C1851,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1852,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1853,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1854,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1855,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1856,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1857,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1858,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1859,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1860,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1861,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1862,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1863,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1864,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1865,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1866,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1867,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1868,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1869,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1870,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1871,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C1872,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1873,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1874,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1875,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1876,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1877,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1878,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1879,Quit,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C1880,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1881,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1882,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1883,Quit,7,7,0,1,14.3,No,0,Did Not Engage Within 3 Days
+C1884,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C1885,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1886,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1887,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1888,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1889,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C1890,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1891,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1892,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1893,Quit,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C1894,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1895,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1896,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1897,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1898,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1899,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C1900,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1901,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1902,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1903,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1904,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1905,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1906,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1907,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1908,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1909,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1910,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1911,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1912,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1913,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1914,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1915,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1916,Quit,3,3,0,1,14.3,No,0,Engaged Within 3 Days
+C1917,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1918,Quit,1,1,0,1,14.3,No,0,Engaged Within 3 Days
+C1919,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1920,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1921,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1922,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1923,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1924,Inactive,2,2,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C1925,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C1926,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1927,Inactive,3,3,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C1928,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1929,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1930,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1931,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1932,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1933,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1934,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C1935,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1936,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1937,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C1938,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1939,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1940,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1941,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1942,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1943,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1944,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1945,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1946,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1947,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1948,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1949,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1950,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1951,Inactive,2,2,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C1952,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1953,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1954,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1955,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1956,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1957,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1958,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1959,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1960,Ghost,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C1961,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1962,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1963,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1964,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C1965,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1966,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1967,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1968,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1969,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1970,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1971,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1972,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1973,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1974,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1975,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1976,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1977,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1978,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1979,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1980,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C1981,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C1982,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1983,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C1984,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1985,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1986,Inactive,1,1,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C1987,Quit,5,5,0,1,14.3,No,0,Did Not Engage Within 3 Days
+C1988,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1989,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C1990,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1991,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C1992,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1993,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C1994,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C1995,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C1996,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C1997,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C1998,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C1999,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2000,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2001,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2002,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2003,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2004,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2005,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2006,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C2007,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2008,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2009,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2010,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2011,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2012,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2013,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2014,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2015,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C2016,Quit,7,7,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2017,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2018,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2019,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C2020,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C2021,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2022,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2023,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2024,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2025,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2026,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2027,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2028,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2029,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2030,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2031,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2032,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2033,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2034,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C2035,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2036,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2037,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2038,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2039,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2040,Ghost,3,3,0,1,0.0,No,0,Engaged Within 3 Days
+C2041,Inactive,1,1,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C2042,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C2043,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2044,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2045,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2046,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2047,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C2048,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2049,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C2050,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2051,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2052,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2053,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2054,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2055,Completed,7,7,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C2056,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2057,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2058,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2059,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2060,Completed,7,7,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2061,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C2062,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2063,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2064,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2065,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2066,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2067,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2068,Ghost,2,2,0,1,0.0,No,0,Engaged Within 3 Days
+C2069,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2070,Quit,0,0,0,1,21.4,No,0,Engaged Within 3 Days
+C2071,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2072,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C2073,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2074,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2075,Quit,1,1,0,1,21.4,No,0,Engaged Within 3 Days
+C2076,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2077,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2078,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2079,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2080,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2081,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2082,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2083,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2084,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2085,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2086,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2087,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2088,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2089,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2090,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2091,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2092,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2093,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2094,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2095,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2096,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C2097,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2098,Quit,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2099,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2100,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2101,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2102,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2103,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2104,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2105,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2106,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2107,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2108,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2109,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2110,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2111,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2112,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2113,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2114,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2115,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2116,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2117,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2118,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2119,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C2120,Inactive,3,3,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2121,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2122,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2123,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2124,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2125,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2126,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2127,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2128,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2129,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2130,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2131,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2132,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2133,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2134,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2135,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2136,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2137,Quit,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2138,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2139,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2140,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2141,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2142,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2143,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2144,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2145,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2146,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2147,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2148,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2149,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2150,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2151,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2152,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2153,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2154,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2155,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2156,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2157,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2158,Quit,0,0,0,1,14.3,No,0,Engaged Within 3 Days
+C2159,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2160,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2161,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2162,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2163,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2164,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2165,Ghost,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C2166,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2167,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2168,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2169,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2170,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2171,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2172,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2173,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2174,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2175,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2176,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2177,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C2178,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C2179,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2180,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2181,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2182,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C2183,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2184,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2185,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2186,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2187,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2188,Inactive,2,2,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2189,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2190,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2191,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2192,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2193,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2194,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2195,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2196,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2197,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2198,Quit,3,3,0,1,14.3,No,0,Engaged Within 3 Days
+C2199,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2200,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2201,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2202,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2203,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2204,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2205,Ghost,3,3,0,1,0.0,No,0,Engaged Within 3 Days
+C2206,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2207,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2208,Quit,0,0,0,1,21.4,No,0,Engaged Within 3 Days
+C2209,Inactive,3,3,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C2210,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2211,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C2212,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2213,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2214,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2215,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2216,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2217,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2218,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2219,Inactive,3,3,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2220,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2221,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2222,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2223,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2224,Inactive,1,1,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2225,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2226,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2227,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2228,Ghost,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C2229,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2230,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2231,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2232,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2233,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2234,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2235,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2236,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2237,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C2238,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2239,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2240,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2241,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2242,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2243,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2244,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2245,Inactive,3,3,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2246,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2247,Quit,3,3,0,1,21.4,No,0,Engaged Within 3 Days
+C2248,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2249,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2250,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2251,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C2252,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2253,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2254,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2255,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2256,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2257,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2258,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2259,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2260,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2261,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2262,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2263,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2264,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2265,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2266,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2267,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2268,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2269,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2270,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C2271,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2272,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2273,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2274,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2275,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2276,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2277,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2278,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2279,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2280,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2281,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2282,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2283,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2284,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2285,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2286,Completed,7,7,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C2287,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C2288,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2289,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2290,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C2291,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2292,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2293,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2294,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2295,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2296,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2297,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2298,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2299,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2300,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C2301,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2302,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2303,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2304,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2305,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2306,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2307,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2308,Quit,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C2309,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2310,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2311,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2312,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2313,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2314,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2315,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2316,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2317,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2318,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2319,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2320,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2321,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2322,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2323,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2324,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2325,Ghost,3,3,0,1,0.0,No,0,Engaged Within 3 Days
+C2326,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2327,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2328,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2329,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2330,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2331,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2332,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C2333,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2334,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2335,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2336,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2337,Completed,7,7,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C2338,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2339,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2340,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2341,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2342,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2343,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2344,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2345,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2346,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2347,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2348,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2349,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2350,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2351,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2352,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C2353,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2354,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2355,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2356,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2357,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2358,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2359,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2360,Quit,7,7,0,1,14.3,No,0,Did Not Engage Within 3 Days
+C2361,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C2362,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2363,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2364,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2365,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2366,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2367,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2368,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2369,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2370,Completed,7,7,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C2371,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2372,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2373,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C2374,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2375,Inactive,3,3,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2376,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C2377,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2378,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2379,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2380,Inactive,1,1,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2381,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2382,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C2383,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2384,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2385,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2386,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2387,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2388,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2389,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2390,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C2391,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2392,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2393,Inactive,7,7,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C2394,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2395,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2396,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2397,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2398,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2399,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2400,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2401,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2402,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2403,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C2404,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2405,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2406,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2407,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2408,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2409,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2410,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2411,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2412,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2413,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2414,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2415,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2416,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2417,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2418,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2419,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2420,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2421,Ghost,1,1,0,1,0.0,No,0,Engaged Within 3 Days
+C2422,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2423,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2424,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2425,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2426,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2427,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2428,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2429,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2430,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2431,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2432,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2433,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2434,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2435,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2436,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2437,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2438,Quit,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C2439,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2440,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2441,Inactive,0,0,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2442,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2443,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2444,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2445,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2446,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2447,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2448,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2449,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C2450,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2451,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2452,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2453,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2454,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2455,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2456,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2457,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2458,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2459,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2460,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C2461,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2462,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2463,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2464,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2465,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2466,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C2467,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2468,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2469,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2470,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2471,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2472,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2473,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2474,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C2475,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2476,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2477,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2478,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2479,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2480,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2481,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C2482,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2483,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2484,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2485,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2486,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2487,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2488,Completed,7,7,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C2489,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C2490,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2491,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2492,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2493,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2494,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2495,Quit,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2496,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2497,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2498,Inactive,1,1,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2499,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2500,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2501,Inactive,1,1,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2502,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2503,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C2504,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2505,Inactive,1,1,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2506,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2507,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2508,Completed,5,5,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2509,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2510,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2511,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C2512,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2513,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2514,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2515,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2516,Quit,5,5,0,1,14.3,No,0,Did Not Engage Within 3 Days
+C2517,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2518,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2519,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2520,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2521,Inactive,3,3,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2522,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2523,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2524,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2525,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2526,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2527,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C2528,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2529,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2530,Inactive,3,3,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2531,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2532,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2533,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2534,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2535,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2536,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2537,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2538,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2539,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2540,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2541,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2542,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2543,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2544,Inactive,0,0,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2545,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2546,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2547,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2548,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2549,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2550,Inactive,1,1,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2551,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2552,Inactive,7,7,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C2553,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2554,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2555,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2556,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2557,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C2558,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2559,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2560,Inactive,2,2,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2561,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2562,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2563,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2564,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2565,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2566,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C2567,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2568,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2569,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2570,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2571,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2572,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2573,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2574,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2575,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2576,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2577,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2578,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2579,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2580,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2581,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2582,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2583,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2584,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2585,Inactive,3,3,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2586,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2587,Ghost,5,5,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2588,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2589,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2590,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2591,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2592,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2593,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2594,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2595,Ghost,5,5,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2596,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2597,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C2598,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2599,Inactive,7,7,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2600,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2601,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2602,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2603,Inactive,2,2,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2604,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2605,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2606,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2607,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2608,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2609,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2610,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2611,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2612,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2613,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2614,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2615,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2616,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2617,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2618,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2619,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2620,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C2621,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2622,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2623,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2624,Inactive,7,7,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C2625,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2626,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C2627,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2628,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2629,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2630,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2631,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2632,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C2633,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2634,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2635,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2636,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2637,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2638,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2639,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2640,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2641,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2642,Inactive,1,1,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2643,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2644,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2645,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2646,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2647,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2648,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2649,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2650,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2651,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2652,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2653,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2654,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2655,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2656,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2657,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2658,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2659,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2660,Quit,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C2661,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2662,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2663,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2664,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2665,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2666,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2667,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2668,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2669,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2670,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2671,Ghost,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C2672,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2673,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2674,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2675,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2676,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2677,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2678,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2679,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2680,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2681,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2682,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2683,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2684,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2685,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2686,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2687,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2688,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2689,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2690,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2691,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2692,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2693,Quit,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C2694,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2695,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2696,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2697,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2698,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2699,Inactive,3,3,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2700,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2701,Ghost,5,5,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2702,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2703,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2704,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2705,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2706,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2707,Inactive,1,1,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2708,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2709,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2710,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2711,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2712,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2713,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2714,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2715,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2716,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2717,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2718,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2719,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2720,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2721,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2722,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2723,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2724,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2725,Completed,5,5,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C2726,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2727,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2728,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2729,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2730,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2731,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2732,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2733,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2734,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2735,Completed,7,7,1,0,85.7,Yes,1,Did Not Engage Within 3 Days
+C2736,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2737,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2738,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2739,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2740,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2741,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2742,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2743,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2744,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2745,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2746,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2747,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2748,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2749,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2750,Ghost,3,3,0,1,0.0,No,0,Engaged Within 3 Days
+C2751,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2752,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2753,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2754,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2755,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2756,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2757,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2758,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2759,Quit,1,1,0,1,21.4,No,0,Engaged Within 3 Days
+C2760,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2761,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2762,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2763,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2764,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2765,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2766,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2767,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2768,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C2769,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2770,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2771,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2772,Completed,7,7,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C2773,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2774,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2775,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2776,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2777,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2778,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2779,Completed,5,5,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C2780,Quit,0,0,0,1,21.4,No,0,Engaged Within 3 Days
+C2781,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2782,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2783,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2784,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2785,Quit,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C2786,Quit,2,2,0,1,14.3,No,0,Engaged Within 3 Days
+C2787,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2788,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2789,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2790,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C2791,Completed,7,7,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2792,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2793,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2794,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2795,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2796,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2797,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2798,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2799,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2800,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2801,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2802,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2803,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2804,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2805,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2806,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2807,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2808,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2809,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2810,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2811,Completed,1,1,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2812,Completed,1,1,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2813,Completed,5,5,1,0,78.6,Partial,1,Did Not Engage Within 3 Days
+C2814,Ghost,7,7,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2815,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2816,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2817,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2818,Completed,7,7,1,0,85.7,Partial,1,Did Not Engage Within 3 Days
+C2819,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2820,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2821,Completed,7,7,1,0,100.0,Partial,1,Did Not Engage Within 3 Days
+C2822,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2823,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2824,Inactive,1,1,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2825,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2826,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2827,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2828,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2829,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2830,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2831,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2832,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2833,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2834,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C2835,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2836,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2837,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2838,Quit,7,7,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2839,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2840,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2841,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2842,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2843,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2844,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2845,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2846,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2847,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2848,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2849,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2850,Completed,3,3,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2851,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2852,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2853,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2854,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2855,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2856,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2857,Ghost,0,0,0,1,0.0,No,0,Engaged Within 3 Days
+C2858,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2859,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2860,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2861,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2862,Inactive,5,5,0,1,35.7,Ongoing,0,Did Not Engage Within 3 Days
+C2863,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2864,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2865,Ghost,7,7,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2866,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2867,Completed,5,5,1,0,78.6,Yes,1,Did Not Engage Within 3 Days
+C2868,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2869,Completed,2,2,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2870,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2871,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2872,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2873,Completed,2,2,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2874,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C2875,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2876,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2877,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2878,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2879,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2880,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2881,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2882,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2883,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2884,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2885,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2886,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2887,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2888,Inactive,0,0,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C2889,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2890,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2891,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2892,Completed,7,7,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2893,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2894,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2895,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2896,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2897,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2898,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2899,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2900,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2901,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2902,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2903,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2904,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2905,Inactive,3,3,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2906,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2907,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2908,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2909,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2910,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2911,Inactive,7,7,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C2912,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2913,Inactive,0,0,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2914,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2915,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2916,Inactive,0,0,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2917,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2918,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2919,Completed,2,2,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2920,Completed,3,3,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2921,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2922,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2923,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2924,Inactive,3,3,0,1,14.3,Ongoing,0,Engaged Within 3 Days
+C2925,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2926,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2927,Completed,1,1,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2928,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2929,Completed,3,3,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2930,Quit,0,0,0,1,21.4,No,0,Engaged Within 3 Days
+C2931,Completed,3,3,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2932,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2933,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2934,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2935,Ghost,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C2936,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2937,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2938,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2939,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2940,Completed,1,1,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2941,Completed,5,5,1,0,92.9,Yes,1,Did Not Engage Within 3 Days
+C2942,Inactive,5,5,0,1,21.4,Ongoing,0,Did Not Engage Within 3 Days
+C2943,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2944,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C2945,Quit,2,2,0,1,7.1,No,0,Engaged Within 3 Days
+C2946,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2947,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2948,Completed,5,5,1,0,100.0,Yes,1,Did Not Engage Within 3 Days
+C2949,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2950,Completed,0,0,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2951,Quit,7,7,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2952,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2953,Ghost,7,7,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2954,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2955,Quit,0,0,0,1,7.1,No,0,Engaged Within 3 Days
+C2956,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2957,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2958,Completed,3,3,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2959,Completed,7,7,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2960,Inactive,7,7,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C2961,Ghost,999,999,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2962,Completed,2,2,1,0,92.9,Partial,1,Engaged Within 3 Days
+C2963,Inactive,5,5,0,1,14.3,Ongoing,0,Did Not Engage Within 3 Days
+C2964,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2965,Completed,3,3,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2966,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2967,Completed,1,1,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2968,Quit,1,1,0,1,7.1,No,0,Engaged Within 3 Days
+C2969,Completed,5,5,1,0,92.9,Partial,1,Did Not Engage Within 3 Days
+C2970,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2971,Completed,2,2,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2972,Ghost,7,7,0,1,0.0,No,0,Did Not Engage Within 3 Days
+C2973,Completed,3,3,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2974,Completed,2,2,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2975,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2976,Inactive,5,5,0,1,28.6,Ongoing,0,Did Not Engage Within 3 Days
+C2977,Inactive,3,3,0,1,21.4,Ongoing,0,Engaged Within 3 Days
+C2978,Inactive,1,1,0,1,35.7,Ongoing,0,Engaged Within 3 Days
+C2979,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2980,Completed,1,1,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2981,Completed,0,0,1,0,100.0,Partial,1,Engaged Within 3 Days
+C2982,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2983,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2984,Ghost,3,3,0,1,7.1,No,0,Engaged Within 3 Days
+C2985,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2986,Completed,0,0,1,0,85.7,Yes,1,Engaged Within 3 Days
+C2987,Completed,3,3,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2988,Completed,1,1,1,0,78.6,Partial,1,Engaged Within 3 Days
+C2989,Completed,2,2,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2990,Inactive,0,0,0,1,28.6,Ongoing,0,Engaged Within 3 Days
+C2991,Completed,2,2,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2992,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2993,Ghost,999,999,0,1,7.1,No,0,Did Not Engage Within 3 Days
+C2994,Completed,1,1,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2995,Completed,0,0,1,0,78.6,Yes,1,Engaged Within 3 Days
+C2996,Completed,0,0,1,0,85.7,Partial,1,Engaged Within 3 Days
+C2997,Completed,0,0,1,0,92.9,Yes,1,Engaged Within 3 Days
+C2998,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C2999,Completed,0,0,1,0,100.0,Yes,1,Engaged Within 3 Days
+C3000,Completed,0,0,1,0,92.9,Partial,1,Engaged Within 3 Days

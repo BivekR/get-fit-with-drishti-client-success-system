@@ -1,0 +1,49 @@
+Dimension,Category,Ideal_Client_Pct,Other_Client_Pct,Difference_Points,Times_More_Likely
+Progress_Photos_Shared,Yes,81.38,58.73,22.65,1.39
+Daily_Comm_Frequency,Daily,71.24,59.0,12.24,1.21
+Second_Round,No,91.61,82.11,9.5,1.12
+Ever_Engaged,True,100.0,92.83,7.17,1.08
+Goal_Type,Body Transformation,33.22,30.01,3.21,1.11
+Motivation_Level_Start,High,59.79,57.49,2.3,1.04
+Exercise_History,Regular,20.28,18.37,1.91,1.1
+Daily_Schedule,Flexible,26.49,24.62,1.86,1.08
+Was_Referred,True,26.75,25.11,1.64,1.07
+Lead_Source,Referral,26.75,25.11,1.64,1.07
+Country,Australia,36.98,35.34,1.63,1.05
+Gender,Female,72.9,71.39,1.51,1.02
+Daily_Comm_Frequency,Every Few Days,20.28,18.91,1.37,1.07
+Diet_Type,Vegetarian,30.77,29.53,1.24,1.04
+Daily_Schedule,Student,11.98,10.78,1.2,1.11
+Daily_Schedule,9-5 Job,36.01,34.91,1.1,1.03
+Goal_Type,Weight Gain,19.32,18.43,0.89,1.05
+Health_Condition,Thyroid,8.74,8.08,0.66,1.08
+Country,Canada,5.16,4.58,0.58,1.13
+Health_Condition,Missing,64.69,64.17,0.52,1.01
+Country,UAE,7.43,6.95,0.48,1.07
+Diet_Type,Eggetarian,9.79,9.59,0.2,1.02
+Country,Nepal,19.14,18.97,0.18,1.01
+Health_Condition,PCOS,11.1,10.94,0.16,1.01
+Country,Other,3.06,2.96,0.1,1.03
+Lead_Source,Other,4.63,4.58,0.05,1.01
+Health_Condition,Back Pain,7.08,7.33,-0.25,0.97
+Diet_Type,Vegan,5.07,5.39,-0.32,0.94
+Health_Condition,Other,3.15,3.61,-0.46,0.87
+Daily_Schedule,Homemaker,19.41,19.88,-0.48,0.98
+Lead_Source,TikTok,53.41,54.04,-0.63,0.99
+Health_Condition,Diabetes,5.24,5.87,-0.63,0.89
+Motivation_Level_Start,Medium,30.51,31.14,-0.64,0.98
+Exercise_History,Never,43.62,44.34,-0.72,0.98
+Lead_Source,Instagram,15.21,16.27,-1.06,0.93
+Diet_Type,Non-Vegetarian,54.37,55.5,-1.13,0.98
+Exercise_History,Occasional,36.1,37.28,-1.18,0.97
+Gender,Male,27.1,28.61,-1.51,0.95
+Was_Referred,False,73.25,74.89,-1.64,0.98
+Motivation_Level_Start,Low,9.7,11.37,-1.67,0.85
+Country,USA,28.23,31.2,-2.96,0.91
+Daily_Comm_Frequency,Irregular,6.03,9.54,-3.51,0.63
+Daily_Schedule,Shift Work,6.12,9.81,-3.69,0.62
+Goal_Type,Weight Loss,47.47,51.56,-4.1,0.92
+Ever_Engaged,False,0.0,7.17,-7.17,0.0
+Second_Round,Yes,8.39,17.89,-9.5,0.47
+Daily_Comm_Frequency,Stopped,2.45,12.55,-10.11,0.19
+Progress_Photos_Shared,No,18.62,41.27,-22.65,0.45

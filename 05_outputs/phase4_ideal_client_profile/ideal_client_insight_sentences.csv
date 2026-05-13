@@ -1,0 +1,16 @@
+Dimension,Category,Ideal_Client_Pct,Other_Client_Pct,Difference_Points,Times_More_Likely,Insight_Sentence
+Progress_Photos_Shared,Yes,81.38,58.73,22.65,1.39,Ideal clients are 1.39 times more likely to be Yes in Progress Photos Shared (81.38% of ideal clients vs 58.73% of other clients).
+Daily_Comm_Frequency,Daily,71.24,59.0,12.24,1.21,Ideal clients are 1.21 times more likely to be Daily in Daily Comm Frequency (71.24% of ideal clients vs 59.0% of other clients).
+Second_Round,No,91.61,82.11,9.5,1.12,Ideal clients are 1.12 times more likely to be No in Second Round (91.61% of ideal clients vs 82.11% of other clients).
+Ever_Engaged,True,100.0,92.83,7.17,1.08,Ideal clients are 1.08 times more likely to be True in Ever Engaged (100.0% of ideal clients vs 92.83% of other clients).
+Goal_Type,Body Transformation,33.22,30.01,3.21,1.11,Ideal clients are 1.11 times more likely to be Body Transformation in Goal Type (33.22% of ideal clients vs 30.01% of other clients).
+Motivation_Level_Start,High,59.79,57.49,2.3,1.04,Ideal clients are 1.04 times more likely to be High in Motivation Level Start (59.79% of ideal clients vs 57.49% of other clients).
+Exercise_History,Regular,20.28,18.37,1.91,1.1,Ideal clients are 1.1 times more likely to be Regular in Exercise History (20.28% of ideal clients vs 18.37% of other clients).
+Daily_Schedule,Flexible,26.49,24.62,1.86,1.08,Ideal clients are 1.08 times more likely to be Flexible in Daily Schedule (26.49% of ideal clients vs 24.62% of other clients).
+Was_Referred,True,26.75,25.11,1.64,1.07,Ideal clients are 1.07 times more likely to be True in Was Referred (26.75% of ideal clients vs 25.11% of other clients).
+Lead_Source,Referral,26.75,25.11,1.64,1.07,Ideal clients are 1.07 times more likely to be Referral in Lead Source (26.75% of ideal clients vs 25.11% of other clients).
+Country,Australia,36.98,35.34,1.63,1.05,Ideal clients are 1.05 times more likely to be Australia in Country (36.98% of ideal clients vs 35.34% of other clients).
+Gender,Female,72.9,71.39,1.51,1.02,Ideal clients are 1.02 times more likely to be Female in Gender (72.9% of ideal clients vs 71.39% of other clients).
+Daily_Comm_Frequency,Every Few Days,20.28,18.91,1.37,1.07,Ideal clients are 1.07 times more likely to be Every Few Days in Daily Comm Frequency (20.28% of ideal clients vs 18.91% of other clients).
+Diet_Type,Vegetarian,30.77,29.53,1.24,1.04,Ideal clients are 1.04 times more likely to be Vegetarian in Diet Type (30.77% of ideal clients vs 29.53% of other clients).
+Daily_Schedule,Student,11.98,10.78,1.2,1.11,Ideal clients are 1.11 times more likely to be Student in Daily Schedule (11.98% of ideal clients vs 10.78% of other clients).
